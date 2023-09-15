@@ -1,43 +1,45 @@
 coordenacao-geral:
-    - Tiago Ferreto (PUCRS)
-    - Dalvan Griebler (PUCRS/SETREM)
-    - Odorico Mendizabal (UFSC)
+    - Eduardo Camilo Inacio (UNISENAI)
+    - Guilherme Koslovski (UDESC)
+    - Guilherme Galante (UNIOESTE)
 
 coordenacao-ic:
-    - André Dubois (UFPEL)
-    - Cláudio Schepke (UNIPAMPA)
+    - Charles Miers (UDESC)
+    - Luis Bona (UFPR)
 
 coordenacao-pg:
-    - Lucas Schnorr (UFRGS)
-    - Vinícius Pinto (FURG)
+    - Edson Padoin (UNIJUI)
+    - Márcio Castro (UFSC)
 
 coordenacao-minicursos:
-    - Guilherme Galante (UNIOESTE)
-    - Edson Padoin (UNIJUI)
-    - Rodrigo Righi (UNISINOS)
+    - Arthur Lorenzon (UFRGS)
+    - Marco Alves (UFPR)
 
 coordenacao-maratona:
     - Mauricio Pilon (UDESC)
-    - Guilherme Koslovski (UDESC)
-    - Miguel Xavier (PUCRS)
+    - João Lima (UFSM)
 
-coordenacao-painel:
-    - César De Rose (PUCRS)
-    - Adenauer Yamin (UCPEL/UFPEL)
+#coordenacao-painel:
+#    - César De Rose (PUCRS)
+#    - Adenauer Yamin (UCPEL/UFPEL)
 
 whpc:
-    - Andriele do Carmo (UNISINOS)
+    - Luciana Frigo (UFSC)
+
+wia:
+    - Matheus Serpa (UFRGS)
+    - Manuel Binelo (UNIJUI)
 
 equipe-local:
-    - Jessé da Silva Rodrigues (PUCRS)
-    - Paulo Severo de Souza (PUCRS)
-    - Carlos Kayser (PUCRS)
-    - Lucas Roges (PUCRS)
-    - Henrique Brum (PUCRS)
-    - Renato Hoffmann (PUCRS)
-    - Leonardo Mallmann (PUCRS)
-    - Gabriella Andrade (PUCRS)
-    - Caetano Muller (PUCRS)
+    - Henrique Benedetto Neto (UNISENAI)
+    #- Paulo Severo de Souza (PUCRS)
+    #- Carlos Kayser (PUCRS)
+    #- Lucas Roges (PUCRS)
+    #- Henrique Brum (PUCRS)
+    #- Renato Hoffmann (PUCRS)
+    #- Leonardo Mallmann (PUCRS)
+    #- Gabriella Andrade (PUCRS)
+    #- Caetano Muller (PUCRS)
 
 comite-ic:
     - Adenauer Yamin (UCPEL e UFPEL)
