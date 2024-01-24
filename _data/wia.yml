@@ -25,7 +25,7 @@ painel:
         bio: "TODO"
         photo: "GiancarloMarchesini.jpeg"
       - name: "Matheus Serpa"
-        bio: "Matheus da Silva Serpa é Tech Lead de Ciência de Dados na DigiFarmz Smart Agriculture e Doutor em Computação pela Universidade Federal do Rio Grande do Sul (UFRGS). Especializou-se no desenvolvimento de produtos de dados, abrangendo desde a construção de pipelines eficientes para extração, validação e carregamento de dados até o desenvolvimento e implementação de soluções avançadas de machine learning, com foco na otimização e eficiência em ambientes empresariais. Possui Mestrado em Computação pela UFRGS, incluindo um período sanduíche na Université de Neuchatel, Suíça."
+        bio: "Tech Lead de Ciência de Dados na DigiFarmz Smart Agriculture e Doutor em Computação pela Universidade Federal do Rio Grande do Sul (UFRGS). Especializou-se no desenvolvimento de produtos de dados, abrangendo desde a construção de pipelines eficientes para extração, validação e carregamento de dados até o desenvolvimento e implementação de soluções avançadas de machine learning, com foco na otimização e eficiência em ambientes empresariais. Possui Mestrado em Computação pela UFRGS, incluindo um período sanduíche na Université de Neuchatel, Suíça."
         photo: "MatheusSerpa.jpeg"
       - name: "Manuel Osório Binelo"
         bio: "Formado em Ciência da Computação pela Universidade de Cruz Alta, Mestre em Modelagem Matemática pela Unijuí e Doutor em Engenharia de Teleinformática pela Universidade Federal do Ceará. Atualmente é professor da Unijuí nos cursos de graduação em computação e engenharias, e no Programa de Pós-Graduação em Modelagem Matemática e Computacional."
