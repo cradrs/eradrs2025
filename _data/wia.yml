@@ -1,7 +1,7 @@
 tutorials:
   - id: "WIA1"
     pdf: "tutorial.pdf"
-    date: "25/04 (14:30 - 16:00) — Local a ser definido"
+    date: "25/04 (14:30 - 16:00) — Laboratório G23"
     title: "Aprendizado de Máquina e Computação de Alto Desempenho"
     abstract: "A Inteligência Artificial é um campo que vem evoluindo radicalmente nos últimos anos. Ela tem se mostrado uma ferramenta com alto poder de capilaridade, sendo incorporada nas mais diversas áreas econômicas e sociais. Sua aplicação em áreas como automação, robótica, classificação de dados, reconhecimento de imagens e em sistemas especialistas já é bastante sólida, mas tem chamado a atenção sua aplicação em áreas relacionadas à subjetividade humana, como a criação de ilustrações, de textos e música. A principal metodologia para a criação de agentes inteligentes é baseada no aprendizado máquina, que consiste em apresentar uma série de exemplos a um sistema computacional. Esses exemplos frequentemente compreendem grandes volumes de dados, e o processo de aprendizagem é um método iterativo de otimização que precisa ser repetido muitas vezes sobre esse conjunto de dados. Essas características fazem com que o desenvolvimento de modelos de inteligência artificial dependam de computação de alto desempenho. Modelos de inteligência artificial mais complexos, como aqueles baseados em redes neurais artificiais com muitas camadas ocultas, empregam técnicas de aprendizagem profunda (deep learning). A aprendizagem profunda é um problema de otimização de alta ordem, que exige uma capacidade de processamento ainda maior. Muitos modelos de inteligência artificial são baseados em redes neurais artificiais, que são modelos matemáticos/computacionais inspirados em neurônios biológicos. Assim como sua fonte de inspiração, sua arquitetura é massivamente paralela, o que torna possível a aplicação de diversas técnicas de computação paralela para acelerar o processo de aprendizagem. Neste minicurso serão abordados os fundamentos do aprendizado de máquina, suas implicações quanto à computação de alto desempenho, e as principais técnicas empregadas nesse contexto. Serão explorados modelos computacionais, frameworks mais utilizados, e diversos trabalhos científicos do estado da arte."
     authors:
@@ -14,7 +14,7 @@ tutorials:
 
 painel:
   - id: "WIAP1"
-    date: "26/04 (17:30 - 18:30) — Local a ser definido"
+    date: "26/04 (17:30 - 18:30) — Sala Hub"
     title: "Painel: Inteligência Artificial e Data Science - Transformando o Mercado e a Academia"
     abstract: "Este painel irá abordar como a Inteligência Artificial (IA) e a Data Science estão promovendo transformações significativas no mercado e na academia. Iniciaremos com uma introdução aos conceitos fundamentais e aplicações práticas destas disciplinas em diversos setores, enfatizando o potencial de inovação e os desafios associados. Progredindo para uma análise de casos de sucesso e obstáculos enfrentados em pesquisas acadêmicas e implementações industriais, o painel proporcionará um entendimento equilibrado do impacto atual da IA e da Data Science. Concluiremos com um foco nas tendências emergentes e no futuro destas tecnologias, explorando as inovações mais recentes e como elas estão moldando novos caminhos para o avanço tecnológico, preparando os participantes para as oportunidades e transformações que esses desenvolvimentos trarão."
     authors:
@@ -30,6 +30,3 @@ painel:
       - name: "Manuel Osório Binelo"
         bio: "Formado em Ciência da Computação pela Universidade de Cruz Alta, Mestre em Modelagem Matemática pela Unijuí e Doutor em Engenharia de Teleinformática pela Universidade Federal do Ceará. Atualmente é professor da Unijuí nos cursos de graduação em computação e engenharias, e no Programa de Pós-Graduação em Modelagem Matemática e Computacional."
         photo: "manuel_binelo.jpeg"
-      - name: "Edson Luiz Padoin"
-        bio: "Professor da Universidade Regional do Noroeste do Estado do Rio Grande do Sul (UNIJUI). Possui doutorado em Computação pela Universidade Federal do Rio Grande do Sul, incluindo um período sanduíche na Université de Grenoble Alpes, na França, e mestrado em Engenharia da Produção, com ênfase em Tecnologia da Informação, pela Universidade Federal de Santa Maria. Tem interesse nos seguintes temas: Eficiência Energética, Balanceamento de Cargas, Computação de Alto Desempenho em Arquiteturas Heterogêneas de Baixo Consumo, Sistemas operacionais e Distribuídos. "
-        photo: "Edson_Padoin.png"
