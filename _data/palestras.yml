@@ -1,4 +1,13 @@
 keynotes:
+  - id: P1
+    date: "24/04 (17:30 - 18:30) — Auditório"
+    name: "Palestra Acadêmica 1"
+    title: ""
+    abstract: ""
+    speaker:
+      name: "Thiago Ferreto"
+      bio: ""
+      photo: ""
   - id: P2
     date: "25/04 (17:30 - 18:30) — Auditório"
     name: "Palestra Acadêmica 2"
