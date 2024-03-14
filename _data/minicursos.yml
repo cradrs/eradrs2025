@@ -18,10 +18,9 @@ tutorials:
   - id: MC2
     date: "24/04 (09:00 - 11:30) — Sala G22"
     name: "Minicurso 2"
-    title: "Exploração do Paralelismo nas Arquiteturas de Computadores Atuais"
+    title: "Exploração do Paralelismo nas Arquiteturas de Computadores Atuais (Básico)"
     pdf: ""
-    abstract: "A exploração do paralelismo em arquiteturas de computadores atuais tem se tornado uma área de extrema relevancia e interesse, impulsionada pela necessidade de lidar com cargas de trabalho cada vez mais complexas e exigentes. Com o avanço das tecnologias e ademanda por desempenho computacional escalavel, tem-se buscado diferentes formas de ´
-aproveitar o paralelismo em diversos níveis, desde instruções vetoriais do processador até a exploração de sistemas de memória distribuída e aceleradores. Essa abordagem
+    abstract: "A exploração do paralelismo em arquiteturas de computadores atuais tem se tornado uma área de extrema relevância e interesse, impulsionada pela necessidade de lidar com cargas de trabalho cada vez mais complexas e exigentes. Com o avanço das tecnologias e ademanda por desempenho computacional escalavel, tem-se buscado diferentes formas de aproveitar o paralelismo em diversos níveis, desde instruções vetoriais do processador até a exploração de sistemas de memória distribuída e aceleradores. Essa abordagem
 permite a execução de múltiplas tarefas simultaneamente, resultando em ganhos significativos de desempenho. Sob este escopo, este minicurso tem o objetivo de oferecer uma
 visão geral dos diferentes aspectos do paralelismo nas arquiteturas de computadores atuais."
     authors:
