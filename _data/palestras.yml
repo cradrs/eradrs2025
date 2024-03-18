@@ -1,18 +1,18 @@
 keynotes:
-  - id: P1
-    date: "24/04 (17:30 - 18:30) — Auditório"
-    name: "Palestra Acadêmica 1"
-    title: ""
-    abstract: ""
-    speaker:
-      name: "Thiago Ferreto"
-      bio: ""
-      photo: ""
+  #- id: P1
+  #  date: "24/04 (17:30 - 18:30) — Auditório"
+  #  name: "Palestra Acadêmica 1"
+  #  title: ""
+  #  abstract: ""
+  #  speaker:
+  #    name: "Thiago Ferreto"
+  #    bio: ""
+  #    photo: ""
   - id: P2
     date: "25/04 (17:30 - 18:30) — Auditório"
     name: "Palestra Acadêmica 2"
-    title: "Analisando o papel de Processamento de Alto Desempenho em Demandas de Cidades Inteligentes: Um Case na Área da Saúde"
-    abstract: "Cidades inteligente é um tema na moda atualmente. Pode ser entendido como o o uso integrado de sensores e atuadores que colaboram com algoritmos inteligentes para gerar benefícios para os cidadãos e administração pública. No contexto de saúde, muito se fala num monitoramento massivo da população, analisando sinais vitais pessoa a pessoa para obter insights pontuais, assim como descobertas baseadas em geo-localização. Essa palestra vem ao encontro de discutir os desafios quanto a implantação de uma cidade inteligente no âmbito da saúde, trazendo principalmente aspectos de como se atingir alta escalabilidade. A ideia é apresentar aspectos de computação de alto desempenho que possam ser empregados nesse contexto para usufruir de uma boa qualidade de serviço para os usuários dos dados, bem com proporcionar decisões proativas e notificações o mais perto do tempo real. Assim, especificadamente, temas como computação Serverless, balanceamento de carga dinâmico, elasticidade de recursos em nuvem, organização hierárquica de recursos em árvore, inteligência artificial em nós fog, compressão adaptativa de dados e mecanismos de offloading serão abordados e correlacionados para a confecção de uma proposta, a qual é utilizada no projeto MinhaHistóriaDigital."
+    title: "Analisando o Papel de Processamento de Alto Desempenho em Demandas de Cidades Inteligentes: Um Case na Área da Saúde"
+    abstract: "Cidades inteligentes é um tema na moda atualmente. Pode ser entendido como o o uso integrado de sensores e atuadores que colaboram com algoritmos inteligentes para gerar benefícios para os cidadãos e administração pública. No contexto de saúde, muito se fala num monitoramento massivo da população, analisando sinais vitais pessoa a pessoa para obter insights pontuais, assim como descobertas baseadas em geo-localização. Essa palestra vem ao encontro de discutir os desafios quanto a implantação de uma cidade inteligente no âmbito da saúde, trazendo principalmente aspectos de como se atingir alta escalabilidade. A ideia é apresentar aspectos de computação de alto desempenho que possam ser empregados nesse contexto para usufruir de uma boa qualidade de serviço para os usuários dos dados, bem com proporcionar decisões proativas e notificações o mais perto do tempo real. Assim, especificadamente, temas como computação Serverless, balanceamento de carga dinâmico, elasticidade de recursos em nuvem, organização hierárquica de recursos em árvore, inteligência artificial em nós fog, compressão adaptativa de dados e mecanismos de offloading serão abordados e correlacionados para a confecção de uma proposta, a qual é utilizada no projeto MinhaHistóriaDigital."
     speaker:
       name: "Rodrigo da Rosa Righi"
       bio: "é membro sênior da IEEE e membro sênior da ACM, bolsista de produtividade do CNPq e professor do Programa de Pós-Graduação em Computação Aplicada (PPGCA) da Universidade do Vale do Rio dos Sinos (Unisinos). Possui pós-doutorado, realizado no KAIST (Korea Advanced Institute of Science and Technology) - Coreia do Sul, com ênfase nas áreas de Internet of Things e Cloud Computing. Rodrigo possui experiência na coordenação e como integrante em projetos de pesquisa de cunho nacional e internacional, envolvendo empresas como Siemens, HT Micron Semicondutores e DELL Computadores. Possui uma produção acadêmica crescente com mais de 6000 citações segundo o Google Scholar, com um h-Index de 35 e i10-index de 85 (dados de março de 2024)."
@@ -26,93 +26,93 @@ keynotes:
       name: "Luis Bona"
       bio: "é Professor associado no Departamento de Informática da UFPR, com doutorado pela UTFPR e pós-doutorado no Barcelona Supercomputing Center, é especialista em Ciência da Computação, focado em Sistemas Distribuídos, Sistemas Operacionais, Armazenamento, Cloud Computing e Redes Definidas por Software. Anteriormente coordenador do Programa de Pós-Graduação em Informática, agora lidera como Chefe do Departamento. Seu trabalho em projetos apoiados por ministérios e instituições de fomento visa impulsionar o desenvolvimento tecnológico e fortalecer a pesquisa acadêmica."
       photo: "LuisBona.jpeg"
-  - id: PI1
-    date: "24/04 (11:30 - 12:00) — Auditório"
-    name: "Palestra Industrial 1"
-    title: "HPE?"
-    abstract: ""
-    speaker:
-      name: ""
-      bio: ""
-      photo: ""
-  - id: PI2
-    date: "24/04 (14:00 - 14:30) — Auditório"
-    name: "Palestra Industrial 2"
-    title: "Versatus"
-    abstract: ""
-    speaker:
-      name: "Eiji Kawahira"
-      bio: ""
-      photo: ""
-  - id: PI3
-    date: "24/04 (16:30 - 17:30) — Auditório"
-    name: "Palestra Industrial 3"
-    title: "SDC"
-    abstract: ""
-    speaker:
-      name: ""
-      bio: ""
-      photo: ""
-  - id: PI4
-    date: "25/04 (11:30 - 12:00) — Auditório"
-    name: "Palestra Industrial 4"
-    title: "DELL/NVIDIA?"
-    abstract: ""
-    speaker:
-      name: ""
-      bio: ""
-      photo: ""
-  - id: PI5
-    date: "25/05 (14:00 - 14:30) — Auditório"
-    name: "Palestra Industrial 5"
-    title: "DELL/NVIDIA"
-    abstract: ""
-    speaker:
-      name: ""
-      bio: ""
-      photo: ""
-  - id: PI6
-    date: "25/04 (16:30 - 17:30) — Auditório"
-    name: "Palestra Industrial 6"
-    title: "Vircos"
-    abstract: ""
-    speaker:
-      name: "Guilherme Friol"
-      bio: "é especialista em computação com anos de experiência em ambientes computacionais de alta demanda, virtualização e HPC. Atua como consultor em arquitetura e otimização de sistemas de alto desempenho. Desenvolveu projetos relevantes junto a grandes instituições de pesquisa e notórios nomes da computação nacional em machine learning e redes neurais. Entre os projetos estão: Predição de Inibidores de Protease de Cisteína para Agentes Tripanocidas e Câncer (USP); Simulação de controle de veículo espacial e orientação de órbita (LAC-INPE); Pesquisa sobre plasmas astrofísicos e turbulências espaciais (ITA); Pesquisa em Astrofísica e física molecular (UNIVAP), entre outros."
-      photo: "guilhermeFriol.png"
-  - id: PI7
-    date: "26/04 (11:30 - 12:00) — Auditório"
-    name: "Palestra Industrial 7"
-    title: "LexisNexis?"
-    abstract: ""
-    speaker:
-      name: "Alysson?"
-      bio: ""
-      photo: ""
-  - id: PI8
-    date: "26/04 (13:30 - 14:00) — Auditório"
-    name: "Palestra Industrial 8"
-    title: "Fineasy Tech?"
-    abstract: ""
-    speaker:
-      name: ""
-      bio: ""
-      photo: ""
-  - id: PI9
-    date: "26/04 (14:00 - 14:30) — Auditório"
-    name: "Palestra Industrial 9"
-    title: "Instituto SENAI de Inovação - Sistemas Embarcados"
-    abstract: ""
-    speaker:
-      name: ""
-      bio: ""
-      photo: ""
-  - id: PI10
-    date: "26/04 (16:30 - 17:30) — Auditório"
-    name: "Palestra Industrial 10"
-    title: "Eletrobras?"
-    abstract: ""
-    speaker:
-      name: ""
-      bio: ""
-      photo: ""
+  #- id: PI1
+  #  date: "24/04 (11:30 - 12:00) — Auditório"
+  #  name: "Palestra Industrial 1"
+  #  title: "HPE?"
+  #  abstract: ""
+  #  speaker:
+  #    name: ""
+  #    bio: ""
+  #    photo: ""
+  #- id: PI2
+  #  date: "24/04 (14:00 - 14:30) — Auditório"
+  #  name: "Palestra Industrial 2"
+  #  title: "Versatus"
+  #  abstract: ""
+  #  speaker:
+  #    name: "Eiji Kawahira"
+  #    bio: ""
+  #    photo: ""
+  #- id: PI3
+  #  date: "24/04 (16:30 - 17:30) — Auditório"
+  #  name: "Palestra Industrial 3"
+  #  title: "SDC"
+  #  abstract: ""
+  #  speaker:
+  #    name: ""
+  #    bio: ""
+  #    photo: ""
+  #- id: PI4
+  #  date: "25/04 (11:30 - 12:00) — Auditório"
+  #  name: "Palestra Industrial 4"
+  #  title: "DELL/NVIDIA?"
+  #  abstract: ""
+  #  speaker:
+  #    name: ""
+  #    bio: ""
+  #    photo: ""
+  #- id: PI5
+  #  date: "25/05 (14:00 - 14:30) — Auditório"
+  #  name: "Palestra Industrial 5"
+  #  title: "DELL/NVIDIA"
+  #  abstract: ""
+  #  speaker:
+  #    name: ""
+  #    bio: ""
+  #    photo: ""
+  #- id: PI6
+  #  date: "25/04 (16:30 - 17:30) — Auditório"
+  #  name: "Palestra Industrial 6"
+  #  title: "Vircos"
+  #  abstract: ""
+  #  speaker:
+  #    name: "Guilherme Friol"
+  #    bio: "é especialista em computação com anos de experiência em ambientes computacionais de alta demanda, virtualização e HPC. Atua como consultor em arquitetura e otimização de sistemas de alto desempenho. Desenvolveu projetos relevantes junto a grandes instituições de pesquisa e notórios nomes da computação nacional em machine learning e redes neurais. Entre os projetos estão: Predição de Inibidores de Protease de Cisteína para Agentes Tripanocidas e Câncer (USP); Simulação de controle de veículo espacial e orientação de órbita (LAC-INPE); Pesquisa sobre plasmas astrofísicos e turbulências espaciais (ITA); Pesquisa em Astrofísica e física molecular (UNIVAP), entre outros."
+  #    photo: "guilhermeFriol.png"
+  #- id: PI7
+  #  date: "26/04 (11:30 - 12:00) — Auditório"
+  #  name: "Palestra Industrial 7"
+  #  title: "LexisNexis?"
+  #  abstract: ""
+  #  speaker:
+  #    name: "Alysson?"
+  #    bio: ""
+  #    photo: ""
+  #- id: PI8
+  #  date: "26/04 (13:30 - 14:00) — Auditório"
+  #  name: "Palestra Industrial 8"
+  #  title: "Fineasy Tech?"
+  #  abstract: ""
+  #  speaker:
+  #    name: ""
+  #    bio: ""
+  #    photo: ""
+  #- id: PI9
+  #  date: "26/04 (14:00 - 14:30) — Auditório"
+  #  name: "Palestra Industrial 9"
+  #  title: "Instituto SENAI de Inovação - Sistemas Embarcados"
+  #  abstract: ""
+  #  speaker:
+  #    name: ""
+  #    bio: ""
+  #    photo: ""
+  #- id: PI10
+  #  date: "26/04 (16:30 - 17:30) — Auditório"
+  #  name: "Palestra Industrial 10"
+  #  title: "Eletrobras?"
+  #  abstract: ""
+  #  speaker:
+  #    name: ""
+  #    bio: ""
+  #    photo: ""
