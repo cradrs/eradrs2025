@@ -12,6 +12,15 @@ tutorials:
         bio: "Professor da Universidade Regional do Noroeste do Estado do Rio Grande do Sul (UNIJUI). Possui doutorado em Computação pela Universidade Federal do Rio Grande do Sul, incluindo um período sanduíche na Université de Grenoble Alpes, na França, e mestrado em Engenharia da Produção, com ênfase em Tecnologia da Informação, pela Universidade Federal de Santa Maria. Tem interesse nos seguintes temas: Eficiência Energética, Balanceamento de Cargas, Computação de Alto Desempenho em Arquiteturas Heterogêneas de Baixo Consumo, Sistemas operacionais e Distribuídos. "
         photo: "Edson_Padoin.png"
 
+  - id: "WIA2"
+    date: "26/04 (14:30 - 16:00) — Laboratório G23"
+    title: "Processamento e Análise de Big Data e Aplicação de Algoritmos de Machine Learning através da utilização da Plataforma HPCC Systems"
+    abstract: "Ao longo do minicurso, os participantes terão a oportunidade de conhecer os conceitos essenciais de processamento e análise de volumes massivos de dados (Big Data) e o processo de desenvolvimento de um serviço de consulta fazendo uso da plataforma opensource composta por um Cluster Computacional de Alto Desempenho (HPCC Systems) e, também, a utilização de algoritmos de Aprendizado de Máquina, bem como terão a possibilidade de aplicar os conhecimentos adquiridos em um ambiente de treinamento disponibilizado em sala de aula. O curso requer apenas um computador com acesso à Internet e uma conta no GitHub."
+    authors:
+      - name: "Alysson Oliveira"
+        bio: "Alysson Oliveira, engenheiro de software da LexisNexis Risk Solutions. Sua principal atuação gira em torno do suporte e desenvolvimento de programas de treinamento para a plataforma HPCC Systems no Brasil, abrangendo o público acadêmico, pesquisadores e profissionais da área da computação e de dados. Também buscar estabelecer parcerias com universidades a fim de oferecer aos alunos de graduação a oportunidade de trabalhar em projetos científicos."
+        photo: "AlyssonOliveira.png"
+
 painel:
   - id: "WIAP1"
     date: "26/04 (17:30 - 18:30) — Sala Hub"
