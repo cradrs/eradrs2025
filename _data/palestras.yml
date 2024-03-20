@@ -44,15 +44,15 @@ keynotes:
   #    name: "Eiji Kawahira"
   #    bio: ""
   #    photo: ""
-  #- id: PI3
-  #  date: "24/04 (16:30 - 17:30) — Auditório"
-  #  name: "Palestra Industrial 3"
-  #  title: "SDC"
-  #  abstract: ""
-  #  speaker:
-  #    name: ""
-  #    bio: ""
-  #    photo: ""
+  - id: PI3
+    date: "24/04 (16:30 - 17:30) — Auditório"
+    name: "Palestra Industrial 3"
+    title: "SDC: Do Render à Inteligência Artificial: Maximizando o Potencial do Hardware com GPUs"
+    abstract: "Nossa palestra vai explorar desde os incríveis mini PCs super potentes equipados com GPUs de última geração até os impressionantes clusters de altíssima performance."
+    speaker:
+      name: "Guilherme Friol"
+      bio: "é especialista em computação com anos de experiência em ambientes computacionais de alta demanda, virtualização e HPC. Atua como consultor em arquitetura e otimização de sistemas de alto desempenho. Desenvolveu projetos relevantes junto a grandes instituições de pesquisa e notórios nomes da computação nacional em machine learning e redes neurais. Entre os projetos estão: Predição de Inibidores de Protease de Cisteína para Agentes Tripanocidas e Câncer (USP); Simulação de controle de veículo espacial e orientação de órbita (LAC-INPE); Pesquisa sobre plasmas astrofísicos e turbulências espaciais (ITA); Pesquisa em Astrofísica e física molecular (UNIVAP), entre outros."
+      photo: "guilhermeFriol.png"
   #- id: PI4
   #  date: "25/04 (11:30 - 12:00) — Auditório"
   #  name: "Palestra Industrial 4"
