@@ -56,12 +56,12 @@ keynotes:
   #- id: PI4
   #  date: "25/04 (11:30 - 12:00) — Auditório"
   #  name: "Palestra Industrial 4"
-  #  title: "DELL/NVIDIA?"
+  #  title: "DELL - Soluções de Computação de Alto Desempenho e Inteligencia Artificial com tecnologias Dell"
   #  abstract: ""
   #  speaker:
-  #    name: ""
-  #    bio: ""
-  #    photo: ""
+  #    name: "Evaldo Costa"
+  #    bio: "é Engenheiro Sênior HPC/IA na Dell Tecnologies. Graduado em engenharia elétrica, mestre e doutor em informática pela UFRJ. Possui experiência em planejamento e implementação de ambientes de missão crítica, assim como em soluções de Computação de Alto Desempenho (HPC), Inteligência Artificial e Programação Paralela."
+  #    photo: "evaldoCosta.jpeg"
   #- id: PI5
   #  date: "25/05 (14:00 - 14:30) — Auditório"
   #  name: "Palestra Industrial 5"
