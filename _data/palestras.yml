@@ -47,7 +47,7 @@ keynotes:
   - id: PI3
     date: "24/04 (16:30 - 17:30) — Auditório"
     name: "Palestra Industrial 3"
-    title: "SDC: Do Render à Inteligência Artificial: Maximizando o Potencial do Hardware com GPUs"
+    title: "SDC - Do Render à Inteligência Artificial: Maximizando o Potencial do Hardware com GPUs"
     abstract: "Nossa palestra vai explorar desde os incríveis mini PCs super potentes equipados com GPUs de última geração até os impressionantes clusters de altíssima performance."
     speaker:
       name: "Guilherme Friol"
@@ -83,7 +83,7 @@ keynotes:
   - id: PI7
     date: "26/04 (11:30 - 12:00) — Auditório"
     name: "Palestra Industrial 7"
-    title: "LexisNexis Risk Solutions: Big Data pela Perspectiva HPCC Systems"
+    title: "LexisNexis Risk Solutions - Big Data pela Perspectiva HPCC Systems"
     abstract: "A plataforma HPCC Systems de código aberto utiliza arquitetura de dados distribuída e uma metodologia de processamento paralelo para trabalhar com grandes conjuntos de dados. O 'pipeline' de dados na plataforma acompanha os dados desde a origem até a sua ingestão no cluster Thor, onde eles são refinados através de limpeza e padronização dos dados e, em seguida, enriquecidos, para depois, serem disponibilizados para aplicações de consulta em tempo real hospedadas no cluster Roxie. Em conjunto com essas duas arquiteturas de clusters e, compondo o chamado 'Power Trio', se faz presente a linguagem ECL, sendo a única linguagem necessária para expressar algoritmos de dados em toda a plataforma HPCC Systems. No cluster Thor, a linguagem ECL expressa 'workflows' de dados que consistem em carregamento dados, transformação, vinculação, indexação etc. No cluster Roxie, a linguagem ECL define serviços de consultas de dados. A linguagem ECL é implicitamente paralela, portanto, o mesmo código ECL desenvolvido para ser executado em um cluster de nó único pode ser executado com a mesma facilidade em um cluster com centenas de nós. O programador não precisa se preocupar em implementar a paralelização, e a linguagem ECL possui uma função otimizadora que garante o melhor desempenho para uma arquitetura específica. Integrado à linguagem ECL encontram-se disponíveis diversas bibliotecas de Machine Learning aplicáveis às várias categorias de aprendizado de máquina, onde cada algoritmo tem suas próprias peculiaridades, as quais devem ser levadas em consideração para maximizar a precisão preditiva, tendo em conta que todos os 'bundles' operam de maneira muito semelhante, com algumas variações menores. Por esses motivos, é muito importante que não seja utilizada a exploração de Machine Learning para produzir produtos ou reivindicar habilidades sem antes consultar a documentação que acompanha cada 'bundle', a fim de usá-lo de forma efetiva. Finalmente, objetivando demonstrar o uso de algoritmos de Aprendizado de Máquina na plataforma HPCC Systems, será apresentado um estudo de caso durante a realização do Minicurso dentro da programação do ERAD-RS 2024."
     speaker:
       name: "Alysson Oliveira"
