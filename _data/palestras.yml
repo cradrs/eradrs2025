@@ -53,15 +53,15 @@ keynotes:
       name: "Guilherme Friol"
       bio: "é especialista em computação com anos de experiência em ambientes computacionais de alta demanda, virtualização e HPC. Atua como consultor em arquitetura e otimização de sistemas de alto desempenho. Desenvolveu projetos relevantes junto a grandes instituições de pesquisa e notórios nomes da computação nacional em machine learning e redes neurais. Entre os projetos estão: Predição de Inibidores de Protease de Cisteína para Agentes Tripanocidas e Câncer (USP); Simulação de controle de veículo espacial e orientação de órbita (LAC-INPE); Pesquisa sobre plasmas astrofísicos e turbulências espaciais (ITA); Pesquisa em Astrofísica e física molecular (UNIVAP), entre outros."
       photo: "guilhermeFriol.png"
-  #- id: PI4
-  #  date: "25/04 (11:30 - 12:00) — Auditório"
-  #  name: "Palestra Industrial 4"
-  #  title: "DELL - Soluções de Computação de Alto Desempenho e Inteligencia Artificial com tecnologias Dell"
-  #  abstract: ""
-  #  speaker:
-  #    name: "Evaldo Costa"
-  #    bio: "é Engenheiro Sênior HPC/IA na Dell Tecnologies. Graduado em engenharia elétrica, mestre e doutor em informática pela UFRJ. Possui experiência em planejamento e implementação de ambientes de missão crítica, assim como em soluções de Computação de Alto Desempenho (HPC), Inteligência Artificial e Programação Paralela."
-  #    photo: "evaldoCosta.jpeg"
+  - id: PI4
+    date: "25/04 (11:30 - 12:00) — Auditório"
+    name: "Palestra Industrial 4"
+    title: "DELL - Soluções de Computação de Alto Desempenho e Inteligencia Artificial com tecnologias Dell"
+    abstract: "Muitos dos avanços atuais estão sendo impulsionados pelas tecnologias baseadas em Computação de Alto Desempenho (HPC) e Inteligencia Artificial (IA). Essas tecnologias estão sendo utilizadas para resolver problemas complexos em diversas áreas, transformando dados em insights mais rapidamente. A Dell Technologies tem soluções completas para todos os desafios atraves do uso de recursos de última geração como CPUs, GPUs, armazenamento e rede."
+    speaker:
+      name: "Evaldo Costa"
+      bio: "é Engenheiro Sênior HPC/IA na Dell Tecnologies. Graduado em engenharia elétrica, mestre e doutor em informática pela UFRJ. Possui experiência em planejamento e implementação de ambientes de missão crítica, assim como em soluções de Computação de Alto Desempenho (HPC), Inteligência Artificial e Programação Paralela."
+      photo: "evaldoCosta.jpeg"
   #- id: PI5
   #  date: "25/05 (14:00 - 14:30) — Auditório"
   #  name: "Palestra Industrial 5"
