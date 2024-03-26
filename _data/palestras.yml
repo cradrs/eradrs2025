@@ -1,13 +1,13 @@
 keynotes:
-  #- id: P1
-  #  date: "24/04 (17:30 - 18:30) — Auditório"
-  #  name: "Palestra Acadêmica 1"
-  #  title: ""
-  #  abstract: ""
-  #  speaker:
-  #    name: "Thiago Ferreto"
-  #    bio: ""
-  #    photo: ""
+  - id: P1
+    date: "24/04 (17:30 - 18:30) — Auditório"
+    name: "Palestra Acadêmica 1"
+    title: "Evolução da Computação em Borda: Estratégias Avançadas para Implantação de Aplicações, Otimização de Recursos e Gerenciamento de Servidores"
+    abstract: "A Computação em Borda é uma área fundamental para atender às exigências de aplicações com baixa latência e alta eficiência. Nesta palestra, serão apresentadas novas estratégias para a implantação ágil de aplicações, enfatizando a importância da virtualização baseada em contêineres e os desafios únicos associados à gestão de recursos em infraestruturas descentralizadas. Serão explorados métodos avançados para o gerenciamento eficiente de servidores, concentrando-nos em minimizar o tempo de inatividade e maximizar o desempenho. Também será abordado como a otimização de recursos e a utilização de algoritmos inteligentes podem resultar em uma gestão mais eficaz e sustentável da energia. A palestra visa proporcionar um entendimento profundo das técnicas atuais e emergentes em Computação em Borda, combinando teoria com soluções práticas e estudos de caso, buscando discutir como enfrentar os desafios atuais e futuros nesta área em rápida evolução."
+    speaker:
+      name: "Tiago Ferreto"
+      bio: "é professor da Escola Politécnica da PUCRS e membro do Programa de Pós-Graduação em Ciência da Computação da PUCRS. Possui doutorado em Ciência da Computação pela PUCRS (2010) com estágio na Universidade Técnica de Berlim, Alemanha (2007-2008). Também atua como coordenador do Laboratório de Alto Desempenho da PUCRS (LAD) e do Grupo de Pesquisa em Redes, Infraestrutura e Computação de Alto Desempenho (GRIN). Sua atuação como pesquisador abrange os temas: computação em nuvem e em borda, gerência de infraestrutura de TI, virtualização, redes de computadores e computação de alto desempenho. Tem atuado desde 2004 como coordenador e/ou pesquisador em projetos de pesquisa com empresas (Dell, Motorola, HP, Microsoft, DBServer, NeoGrid, etc) e também em projetos com fomento governamental (CNPq, CAPES, FAPERGS)."
+      photo: "TiagoFerreto.jpeg"
   - id: P2
     date: "25/04 (17:30 - 18:30) — Auditório"
     name: "Palestra Acadêmica 2"
