@@ -62,15 +62,15 @@ keynotes:
       name: "Evaldo Costa"
       bio: "é Engenheiro Sênior HPC/IA na Dell Tecnologies. Graduado em engenharia elétrica, mestre e doutor em informática pela UFRJ. Possui experiência em planejamento e implementação de ambientes de missão crítica, assim como em soluções de Computação de Alto Desempenho (HPC), Inteligência Artificial e Programação Paralela."
       photo: "evaldoCosta.jpeg"
-  #- id: PI5
-  #  date: "25/05 (14:00 - 14:30) — Auditório"
-  #  name: "Palestra Industrial 5"
-  #  title: "DELL/NVIDIA"
-  #  abstract: ""
-  #  speaker:
-  #    name: ""
-  #    bio: ""
-  #    photo: ""
+  - id: PI5
+    date: "25/05 (14:00 - 14:30) — Auditório"
+    name: "Palestra Industrial 5"
+    title: "NVIDIA - Supercomputação para IA aplicadas a Ciência e Engenharia"
+    abstract: "Revolucionando o cenário da IA e da ciência computacional, a computação acelerada está remodelando a forma como abordamos o processamento de dados – do data center à nuvem e até a borda. Participe de uma exploração imersiva e obtenha insights profundos sobre os avanços mais recentes , inovações e tecnologias de ponta aplicadas a ciência e engenharia para capacitar empresas, indústrias e nações no aproveitamento das vantagens ilimitadas da supercomputação para IA."
+    speaker:
+      name: "Pedro Mário Cruz e Silva"
+      bio: "é Bacharel em Matemática (1995) e Mestre em Matemática Aplicada e Otimização (1998) pela UFPE, Doutor em Computação Gráfica pela PUC-Rio (2004). Trabalhou por 15 anos no Instituto PUC-Rio onde criou o Grupo de Geofísica Computacional, durante este período liderou diversos projetos de Desenvolvimento de Software, bem como projetos de Pesquisa na área de Geofísica. Concluiu MBA em Gestão Empresarial na FGV-Rio. Atualmente é Arquiteto de Soluções Sênior da NVIDIA para América Latina."
+      photo: "PedroMario.jpeg"
   - id: PI6
     date: "25/04 (16:30 - 17:30) — Auditório"
     name: "Palestra Industrial 6"
