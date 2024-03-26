@@ -101,12 +101,12 @@ keynotes:
   #- id: PI9
   #  date: "26/04 (14:00 - 14:30) — Auditório"
   #  name: "Palestra Industrial 9"
-  #  title: "Instituto SENAI de Inovação - Sistemas Embarcados"
+  #  title: "Instituto SENAI de Inovação em Sistemas Embarcados - Supercomputadores: Impulsionando Projetos de Inovação em Visão Computacional"
   #  abstract: ""
   #  speaker:
-  #    name: ""
-  #    bio: ""
-  #    photo: ""
+  #    name: "Flávio Gabriel Oliveira Barbosa"
+  #    bio: "é coordenador de P&D do Instituto SENAI de Inovação em Sistemas Embarcados (ISI-SE). É engenheiro de Controle e Automação pela Universidade Federal de Ouro Preto (UFOP), possui mestrado e doutorado na área de Visão Computacional e Machine Learning pela Universidade Federal de Santa Catarina (UFSC).  É pesquisador sênior e já atuou como responsável técnico de projetos e líder da área de visão computacional do ISI-SE."
+  #    photo: "FlavioISI.jpeg"
   #- id: PI10
   #  date: "26/04 (16:30 - 17:30) — Auditório"
   #  name: "Palestra Industrial 10"
