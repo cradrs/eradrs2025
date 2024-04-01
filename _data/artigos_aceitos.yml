@@ -1,5 +1,21 @@
 ic-track:
-
+  -
+    id: "IC1"
+    title: "Algoritmos e Aplicações Paralelas"
+    date: "10/05"
+    start_time: "14:30"
+    end_time: "16:00"
+    chair:
+      name: "Guilherme Galante (UNIOESTE)"
+    room: "Auditório 517"
+    papers:
+      - title: "Comparação entre as Diretivas parallel do e teams distribute de OpenMP em uma Aplicação de Meios Porosos"
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/24487/24308"
+        authors:
+          - name: "Gabriel Dineck Tremarin"
+            institution: "UNIPAMPA"
+          - name: "Claudio Schepke"
+            institution: "UNIPAMPA"
 pg-track:
   -
     id: "PG1"
