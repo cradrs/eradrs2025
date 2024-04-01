@@ -24,11 +24,11 @@ pg-track:
     start_time: "14:30"
     end_time: "16:00"
     chair:
-      name: ""
+      name: "teste"
     room: "Auditório"
     papers:
       - title: "Proposta de Paralelismo de Stream Multi-GPU em Multi-Cores"
-        pdf: ""
+        pdf: "testes"
         authors:
           - name: "Gabriel Fim"
             institution: "PUCRS"
