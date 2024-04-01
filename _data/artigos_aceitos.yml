@@ -1,5 +1,5 @@
 ic-track:
-  -
+
 pg-track:
   -
     id: "PG1"
@@ -48,14 +48,14 @@ pg-track:
             institution: "UFPR"
           - name: "Wagner Zola"
             institution: "UFPR"  
-      
+  -    
     id: "PG2"
-    title: " Paralelismo, Aplicações e Tolerância a Falhas"
-    date: "26/04"
+    title: "Paralelismo, Aplicações e Tolerância a Falhas"
+    date: "25/04"
     start_time: "14:30"
-    end_time: "15:30"
+    end_time: "16:00"
     chair:
-      name: "prof..."
+      name: ""
     room: "Auditório"
     papers:
       - title: "Análise da Pegada de Carbono em Aplicações Paralelas"
@@ -106,16 +106,15 @@ pg-track:
           - name: "Leonardo Anastácio"
             institution: "UDESC"
           - name: "Guilherme Koslovski"
-            institution: "UDESC"  
-          
+            institution: "UDESC"
   -
     id: "PG3"
     title: "IA e Cloud"
     date: "26/04"
     start_time: "14:30"
-    end_time: "15:30"
+    end_time: "16:00"
     chair:
-      name: "prof ..."
+      name: ""
     room: "Auditório"
     papers:
       - title: "An Approach to Home Environment Monitoring of People with Disabilities Through AIoT"
