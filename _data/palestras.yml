@@ -91,7 +91,7 @@ keynotes:
   #    photo: ""
   - id: PI8
     date: "26/04 (14:00 - 14:30) — Auditório"
-    name: "Palestra Industrial 9"
+    name: "Palestra Industrial 8"
     title: "Instituto SENAI de Inovação em Sistemas Embarcados - Supercomputadores: Impulsionando Projetos de Inovação em Visão Computacional"
     abstract: "Nesta palestra, será abordado o papel crucial dos supercomputadores na aceleração de projetos de inovação em visão computacional. Ao combinar capacidades de processamento massivo com algoritmos avançados, os supercomputadores capacitam pesquisadores a lidar com conjuntos de dados complexos, impulsionando avanços em áreas como análise de imagens, detecção de objetos e imagens de satélites. Serão discutidos casos de uso práticos e os desafios enfrentados nesse campo em constante evolução, destacando como os supercomputadores estão transformando a visão computacional e impulsionando a próxima geração de inovações tecnológicas."
     speaker:
@@ -100,7 +100,7 @@ keynotes:
       photo: "FlavioISI.jpeg"
   #- id: PI9
   #  date: "26/04 (16:30 - 17:30) — Auditório"
-  #  name: "Palestra Industrial 10"
+  #  name: "Palestra Industrial 9"
   #  title: "Eletrobras?"
   #  abstract: ""
   #  speaker:
