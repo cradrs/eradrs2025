@@ -35,7 +35,7 @@ pg-track:
           - name: "Dalvan Griebler"
             institution: "PUCRS"
       - title: "Em Direção a um Modelo de Programação Paralela Único para CPUs e GPUs em Processamento de Stream"
-        pdf: ""
+        pdf: "teste"
         authors:
           - name: "Gabriell Araujo"
             institution: "PUCRS"
@@ -44,7 +44,7 @@ pg-track:
             - name: "Luiz Gustavo Fernandes"
             institution: "PUCRS"
       - title: "Proposta de Pipelines Lineares de Alto Nível em Rust Utilizando GPU"
-        pdf: ""
+        pdf: "teste"
         authors:
           - name: "Leonardo Faé"
             institution: "PUCRS"
