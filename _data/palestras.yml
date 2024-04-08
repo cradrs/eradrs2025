@@ -83,7 +83,7 @@ keynotes:
   - id: PI7
     date: "26/04 (11:30 - 12:00) — Auditório"
     name: "Palestra Industrial 7"
-    title: "HPE - HPE Leadership Computing"
+    title: "HPE - HPE Leadership Supercomputing"
     abstract: "Vamos explorar a liderança mundial da HPE em Computação de Alto Desempenho e Inteligência Artificial reforçando o posicionamento do Supercomputador FRONTIER HPE CRAY EX como no.1 da Lista do Top500 (https://www.top500.org/) e demais casos de sucesso para os Supercomputadores HPE CRAY EX. Vamos apresentar o Portifólio de HPC/AI CRAY XD com suas arquiteturas diversas de infraestrutura de rede de alta performance, CPUs e Aceleradores, bem como as opções de refrigeração de acordo com cada ambiente."
     speaker:
       name: "Mônica Costa"
