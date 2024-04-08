@@ -80,15 +80,15 @@ keynotes:
       name: "Guilherme Friol"
       bio: "é especialista em computação com anos de experiência em ambientes computacionais de alta demanda, virtualização e HPC. Atua como consultor em arquitetura e otimização de sistemas de alto desempenho. Desenvolveu projetos relevantes junto a grandes instituições de pesquisa e notórios nomes da computação nacional em machine learning e redes neurais. Entre os projetos estão: Predição de Inibidores de Protease de Cisteína para Agentes Tripanocidas e Câncer (USP); Simulação de controle de veículo espacial e orientação de órbita (LAC-INPE); Pesquisa sobre plasmas astrofísicos e turbulências espaciais (ITA); Pesquisa em Astrofísica e física molecular (UNIVAP), entre outros."
       photo: "guilhermeFriol.png"
-  #- id: PI7
-  #  date: "26/04 (11:30 - 12:00) — Auditório"
-  #  name: "Palestra Industrial 7"
-  #  title: "HPE"
-  #  abstract: ""
-  #  speaker:
-  #    name: ""
-  #    bio: ""
-  #    photo: ""
+  - id: PI7
+    date: "26/04 (11:30 - 12:00) — Auditório"
+    name: "Palestra Industrial 7"
+    title: "HPE - HPE Leadership Computing"
+    abstract: "Vamos explorar a liderança mundial da HPE em Computação de Alto Desempenho e Inteligência Artificial reforçando o posicionamento do Supercomputador FRONTIER HPE CRAY EX como no.1 da Lista do Top500 (https://www.top500.org/) e demais casos de sucesso para os Supercomputadores HPE CRAY EX. Vamos apresentar o Portifólio de HPC/AI CRAY XD com suas arquiteturas diversas de infraestrutura de rede de alta performance, CPUs e Aceleradores, bem como as opções de refrigeração de acordo com cada ambiente."
+    speaker:
+      name: "Mônica Costa"
+      bio: "é bacharel em Engenharia Eletrônica, com Pós-graduação em Estratégia e Gestão Empresarial e Pós-graduação em Transformação Digital pela PUC-Rio, possui mais de 30 anos de experiência em Computação de Alto Desempenho, iniciando sua carreira na Control Data Corporation (CDC) como Engenheira de Suporte de mainframes CDC. Na década de 1990 a Silicon Graphics International (SGI) se estabeleceu no Brasil e incorporou as atividades da CDC, que já utilizava workstations SGI como console dos mainframes, e desde então Mônica Costa passou a integrar o time de Engenheiros de Suporte/Vendas da SGI, por onde permaneceu por 25 anos. Com a incorporação da SGI pela Hewlett Packard Enterprise (HPE) em 2017 assumiu a posição de Especialista em Computação de Alto Desempenho e Inteligência Artificial, sendo responsável por HPC/AI no Brasil e América Latina."
+      photo: "MonicaCosta.jpg"
   - id: PI8
     date: "26/04 (14:00 - 14:30) — Auditório"
     name: "Palestra Industrial 8"
