@@ -98,12 +98,12 @@ keynotes:
       name: "Flávio Gabriel Oliveira Barbosa"
       bio: "é coordenador de P&D do Instituto SENAI de Inovação em Sistemas Embarcados (ISI-SE). É engenheiro de Controle e Automação pela Universidade Federal de Ouro Preto (UFOP), possui mestrado e doutorado na área de Visão Computacional e Machine Learning pela Universidade Federal de Santa Catarina (UFSC).  É pesquisador sênior e já atuou como responsável técnico de projetos e líder da área de visão computacional do ISI-SE."
       photo: "FlavioISI.jpeg"
-  #- id: PI9
-  #  date: "26/04 (16:30 - 17:30) — Auditório"
-  #  name: "Palestra Industrial 9"
-  #  title: "Eletrobras?"
-  #  abstract: ""
-  #  speaker:
-  #    name: ""
-  #    bio: ""
-  #    photo: ""
+  - id: PI9
+    date: "26/04 (16:30 - 17:30) — Auditório"
+    name: "Palestra Industrial 9"
+    title: "Eletrobras - Aplicação dos Fundamentos de Tecnologia da Informação no Setor Elétrico"
+    abstract: "Como as tecnologias digitais impulsionam melhorias contínuas nos processos de operação, manutenção e expansão do sistema elétrico nacional, resultando em redução de custos, maior eficiência e aumento da qualidade."
+    speaker:
+      name: "Eduardo Polvani Campaner"
+      bio: "é Engenheiro Eletricista pela Universidade Federal de Santa Catarina, pós-graduado em Engenharia de Segurança do Trabalho pela Faculdade Estácio de Sá, foi consultor comercial na Brasil Telecom e engenheiro pela Celesc Distribuição. Na CGT Eletrosul desde 2010 atuou em projetos de telecomunicações, coordenação de obras e gerente de engenharia de proteção e controle, atualmente ocupa a função de Gerente Executivo de Automação, Proteção e Telecomunicações e cursa MBA em Administração de Negócios no Setor Elétrico na FGV."
+      photo: "EduardoCampaner.png"
