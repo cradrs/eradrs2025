@@ -164,7 +164,7 @@ ic-track:
       - title: "Comparing Burstable and On-Demand AWS EC2 Instances using NAS Parallel Benchmarks"
 #        pdf: ""
         authors:
-          - name: "Gian C. F.Ferrari"
+          - name: "Gian C. F. Ferrari"
             institution: "UFSC"
           - name: "Vanderlei Pereira Filho"
             institution: "UFSC"
