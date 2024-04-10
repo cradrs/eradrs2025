@@ -200,7 +200,7 @@ ic-track:
           - name: "Charles C. Miers"
             institution: "UDESC"
   - id: "IC4"
-    title: " Infraestrutura e aplicações"
+    title: "Infraestrutura e aplicações"
     date: "26/04"
     start_time: "14:30"
     end_time: "16:00"
