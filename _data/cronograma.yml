@@ -260,7 +260,7 @@ schedule:
             authors: "Thiago dos S. Gonçalves (UFRGS), Antonio C. S. Beck (UFRGS) e Arthur F. Lorenzon (UFRGS)"
           - title: "Algoritmos de divisão de números complexos para aplicações de alto desempenho"
             authors: "Marcelo D. Ribas (UFRGS), Lucas L. Nesi (UFRGS) e Lucas M.Schnorr (UFRGS)"
-      - title: "Palestra Industrial: DELL - Soluções de Computação de Alto Desempenho e Inteligencia Artificial com tecnologias Dell"
+      - title: "Palestra Industrial: Dell - Soluções de Computação de Alto Desempenho e Inteligencia Artificial com tecnologias Dell"
         link: "palestras.html#PI4"
         description: "Muitos dos avanços atuais estão sendo impulsionados pelas tecnologias baseadas em Computação de Alto Desempenho (HPC) e Inteligencia Artificial (IA). Essas tecnologias estão sendo utilizadas para resolver problemas complexos em diversas áreas, transformando dados em insights mais rapidamente. A Dell Technologies tem soluções completas para todos os desafios atraves do uso de recursos de última geração como CPUs, GPUs, armazenamento e rede."
         type: "lecture"
