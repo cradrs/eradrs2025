@@ -81,7 +81,7 @@ schedule:
         type: "general"
         start_time: "12:00"
         end_time: "14:00"
-      - title: "Palestra Industrial: Versatus HPC - "
+      - title: "Palestra Industrial: Versatus HPC - HPC Moderno"
         description: ""
         link: "palestras.html#PI2"
         type: "lecture"
