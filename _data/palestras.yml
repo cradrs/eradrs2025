@@ -35,15 +35,15 @@ keynotes:
       name: "Alysson Oliveira"
       bio: "é engenheiro de software da LexisNexis Risk Solutions. Sua principal atuação gira em torno do suporte e desenvolvimento de programas de treinamento para a plataforma HPCC Systems no Brasil, abrangendo o público acadêmico, pesquisadores e profissionais da área da computação e de dados. Também buscar estabelecer parcerias com universidades a fim de oferecer aos alunos de graduação a oportunidade de trabalhar em projetos científicos."
       photo: "AlyssonOliveira.png"
-  #- id: PI2
-  #  date: "24/04 (14:00 - 14:30) — Auditório"
-  #  name: "Palestra Industrial 2"
-  #  title: "Versatus"
+  - id: PI2
+    date: "24/04 (14:00 - 14:30) — Auditório"
+    name: "Palestra Industrial 2"
+    title: "Versatus - HPC Moderno"
   #  abstract: ""
-  #  speaker:
-  #    name: "Eiji Kawahira"
-  #    bio: ""
-  #    photo: ""
+    speaker:
+      name: "Paulo César Fonseca"
+      bio: "é graduado em Análise de Sistemas e especialista em projetos de computação de alto desempenho para a academia e centros de pesquisa. Atua há mais de 9 anos como gerente de contas da  Versatus HPC."
+      photo: "PauloFonseca.jpg"
   - id: PI3
     date: "24/04 (16:30 - 17:30) — Auditório"
     name: "Palestra Industrial 3"
