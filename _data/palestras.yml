@@ -38,8 +38,8 @@ keynotes:
   - id: PI2
     date: "24/04 (14:00 - 14:30) — Auditório"
     name: "Palestra Industrial 2"
-    title: "Versatus - HPC Moderno"
-  #  abstract: ""
+    title: "Versatus HPC - HPC Moderno"
+    abstract: ""
     speaker:
       name: "Paulo César Fonseca"
       bio: "é graduado em Análise de Sistemas e especialista em projetos de computação de alto desempenho para a academia e centros de pesquisa. Atua há mais de 9 anos como gerente de contas da  Versatus HPC."
