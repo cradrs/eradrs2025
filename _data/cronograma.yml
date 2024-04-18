@@ -89,7 +89,7 @@ schedule:
         end_time: "14:30"
         room: "Auditório"
         speakers:
-          - name: ""
+          - name: "Paulo Fonseca"
             institution: "Versatus HPC"
       - title: "Maratona: suporte presencial na sala de competição"
         link: "maratona.html"
