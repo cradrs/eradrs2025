@@ -278,7 +278,7 @@ pg-track:
     start_time: "14:30"
     end_time: "16:00"
     chair:
-      name: "(em definição)"
+      name: "Manuel Binelo (Unijuí)"
     room: "Auditório"
     papers:
       - title: "Proposta de Paralelismo de Stream Multi-GPU em Multi-Cores"
@@ -324,7 +324,7 @@ pg-track:
     start_time: "14:30"
     end_time: "16:00"
     chair:
-      name: "(em definição)"
+      name: "Edson Luiz Padoin (Unijuí)"
     room: "Auditório"
     papers:
       - title: "Análise da Pegada de Carbono em Aplicações Paralelas"
@@ -382,7 +382,7 @@ pg-track:
     start_time: "14:30"
     end_time: "16:00"
     chair:
-      name: "(em definição)"
+      name: "Maurício Pillon (UDESC)"
     room: "Auditório"
     papers:
       - title: "An Approach to Home Environment Monitoring of People with Disabilities Through AIoT"
