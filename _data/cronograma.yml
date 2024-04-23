@@ -126,8 +126,8 @@ schedule:
         end_time: "16:00"
         room: "Auditório"
         chair:
-          name: "(em definição)"
-          institution: "(em definição)"
+          name: "Manuel Binelo"
+          institution: "Unijuí"
         papers:
           - title: "Proposta de Paralelismo de Stream Multi-GPU em Multi-Cores"
             authors: "Gabriel Fim (PUCRS) e Dalvan Griebler (PUCRS)"
@@ -291,8 +291,8 @@ schedule:
         end_time: "16:00"
         room: "Auditório"
         chair:
-          name: "(em definição)"
-          institution: "(em definição)"
+          name: "Edson Luiz Padoin"
+          institution: "Unijuí"
         papers:
           - title: "Análise da Pegada de Carbono em Aplicações Paralelas"
             authors: "Arthur Silveira (Faculdade São Francisco de Assis) e Arthur Lorenzon (UFRGS)"
@@ -516,8 +516,8 @@ schedule:
         end_time: "16:00"
         room: "Auditório"
         chair:
-          name: "(em definição)"
-          institution: "(em definição)"
+          name: "Maurício Pillon"
+          institution: "UDESC"
         papers:
           - title: "An Approach to Home Environment Monitoring of People with Disabilities Through AIoT"
             authors: "Anita Fernandes (Univali), Valderi Leithardt (Instituto Superior de Engenharia de Lisboa) e Juan Francisco de Paz Santana (Universidad de Salamanca)"
