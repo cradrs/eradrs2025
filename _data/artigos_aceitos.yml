@@ -75,7 +75,7 @@ ic-track:
     start_time: "10:30"
     end_time: "11:30"
     chair:
-      name: "Guilherme Galante (Unioeste)"
+      name: "Tiago Ferreto (PUCRS)"
     room: "Auditório"
     papers:
       - title: "Proposta de análise de desempenho entre OpenID Connect e Keycloak usando OpenID Connect"
@@ -127,7 +127,7 @@ ic-track:
     start_time: "14:30"
     end_time: "16:00"
     chair:
-      name: "Tiago Ferreto (PUCRS)"
+      name: "Guilherme Galante (Unioeste)"
     room: "Sala G22"
     papers:
       - title: "Avaliação da Biblioteca SCR em Instâncias AWS Spot Utilizando a Ferramenta HPC@Cloud"
