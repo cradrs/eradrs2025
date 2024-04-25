@@ -247,8 +247,8 @@ schedule:
         end_time: "11:30"
         room: "Auditório"
         chair:
-          name: "Guilherme Galante"
-          institution: "Unioeste"
+          name: "Tiago Ferreto"
+          institution: "PUCRS"
         papers:
           - title: "Proposta de análise de desempenho entre OpenID Connect e Keycloak usando OpenID Connect"
             authors: "Carlos D. S. Bunn (UDESC) e Charles C. Miers (UDESC)"
@@ -315,8 +315,8 @@ schedule:
         end_time: "16:00"
         room: "Sala G22"
         chair:
-          name: "Tiago Ferreto"
-          institution: "PUCRS"
+          name: "Guilherme Galante"
+          institution: "Unioeste"
         papers:
           - title: "Avaliação da Biblioteca SCR em Instâncias AWS Spot Utilizando a Ferramenta HPC@Cloud"
             authors: "João Feres (UFSC), Vanderlei Pereira Filho (UFSC) e Márcio Castro (UFSC)"
