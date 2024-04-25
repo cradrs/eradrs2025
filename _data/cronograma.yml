@@ -104,8 +104,8 @@ schedule:
         end_time: "16:00"
         room: "Sala G22"
         chair:
-          name: "(em definição)"
-          institution: "(em definição)"
+          name: "Edson Padoin"
+          institution: "Unijuí"
         papers:
           - title: "Synapse meets Slurm: Proposta de um middleware para paralelização de algoritmos de otimização populacionais"
             authors: "Arthur M.P. Gabardo (UFSC), Pablo A. Jaskowiak (UFSC) e Thiago P. Tancredi (UFSC)"
@@ -247,8 +247,8 @@ schedule:
         end_time: "11:30"
         room: "Auditório"
         chair:
-          name: "(em definição)"
-          institution: "(em definição)"
+          name: "Guilherme Galante"
+          institution: "Unioeste"
         papers:
           - title: "Proposta de análise de desempenho entre OpenID Connect e Keycloak usando OpenID Connect"
             authors: "Carlos D. S. Bunn (UDESC) e Charles C. Miers (UDESC)"
@@ -291,8 +291,8 @@ schedule:
         end_time: "16:00"
         room: "Auditório"
         chair:
-          name: "Edson Luiz Padoin"
-          institution: "Unijuí"
+          name: "Claudio Schepke"
+          institution: "Unipampa"
         papers:
           - title: "Análise da Pegada de Carbono em Aplicações Paralelas"
             authors: "Arthur Silveira (Faculdade São Francisco de Assis) e Arthur Lorenzon (UFRGS)"
@@ -315,8 +315,8 @@ schedule:
         end_time: "16:00"
         room: "Sala G22"
         chair:
-          name: "(em definição)"
-          institution: "(em definição)"
+          name: "Tiago Ferreto"
+          institution: "PUCRS"
         papers:
           - title: "Avaliação da Biblioteca SCR em Instâncias AWS Spot Utilizando a Ferramenta HPC@Cloud"
             authors: "João Feres (UFSC), Vanderlei Pereira Filho (UFSC) e Márcio Castro (UFSC)"
@@ -540,8 +540,8 @@ schedule:
         end_time: "16:00"
         room: "Sala G22"
         chair:
-          name: "(em definição)"
-          institution: "(em definição)"
+          name: "Charles Miers"
+          institution: "UDESC"
         papers:
           - title: "Usando aprendizado supervisionado para composição de políticas de escalonamento"
             authors: "Guilherme Diel (UDESC), Ana E. N. Kraus (UDESC) e Guilherme P. Koslovski (UDESC)"
