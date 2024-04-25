@@ -5,7 +5,7 @@ ic-track:
     start_time: "14:30"
     end_time: "16:00"
     chair:
-      name: "(em definição)"
+      name: "Edson Padoin (Unijuí)"
     room: "Sala G22"
     papers:
       - title: "Synapse meets Slurm: Proposta de um middleware para paralelização de algoritmos de otimização populacionais"
@@ -75,7 +75,7 @@ ic-track:
     start_time: "10:30"
     end_time: "11:30"
     chair:
-      name: "(em definição)"
+      name: "Guilherme Galante (Unioeste)"
     room: "Auditório"
     papers:
       - title: "Proposta de análise de desempenho entre OpenID Connect e Keycloak usando OpenID Connect"
@@ -127,7 +127,7 @@ ic-track:
     start_time: "14:30"
     end_time: "16:00"
     chair:
-      name: "(em definição)"
+      name: "Tiago Ferreto (PUCRS)"
     room: "Sala G22"
     papers:
       - title: "Avaliação da Biblioteca SCR em Instâncias AWS Spot Utilizando a Ferramenta HPC@Cloud"
@@ -205,7 +205,7 @@ ic-track:
     start_time: "14:30"
     end_time: "16:00"
     chair:
-      name: "(em definição)"
+      name: "Charles Miers (UDESC)"
     room: "Sala G22"
     papers:
       - title: "Usando aprendizado supervisionado para composição de políticas de escalonamento"
@@ -324,7 +324,7 @@ pg-track:
     start_time: "14:30"
     end_time: "16:00"
     chair:
-      name: "Edson Luiz Padoin (Unijuí)"
+      name: "Claudio Schepke (Unipampa)"
     room: "Auditório"
     papers:
       - title: "Análise da Pegada de Carbono em Aplicações Paralelas"
