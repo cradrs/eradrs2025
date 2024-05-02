@@ -9,7 +9,7 @@ ic-track:
     room: "Sala G22"
     papers:
       - title: "Synapse meets Slurm: Proposta de um middleware para paralelização de algoritmos de otimização populacionais"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/27988/27798"
         authors:
           - name: "Arthur M.P. Gabardo"
             institution: "UFSC"
@@ -18,7 +18,7 @@ ic-track:
           - name: "Thiago P. Tancredi"
             institution: "UFSC"
       - title: "Otimizando a Implementação Multi-GPU do Método Fletcher através da Paralelização Eficiente na Computação e Comunicação de Dados"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/27989/27799"
         authors:
           - name: "Pedro H. C. Rigon"
             institution: "UFRGS"
@@ -33,7 +33,7 @@ ic-track:
           - name: "Philippe O. A. Navaux"
             institution: "UFRGS"
       - title: "Analisando Paralelismo de Dados em Rust Usando o Método do Gradiente Conjugado"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/27990/27800"
         authors:
           - name: "Lucas S. Bianchessi"
             institution: "PUCRS"
@@ -44,7 +44,7 @@ ic-track:
           - name: "Dalvan Griebler"
             institution: "PUCRS"
       - title: "Paralelização de computação e escrita em aplicações de simulação de propagação de ondas utilizando o padrão de comunicação MPI"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/27991/27801"
         authors:
           - name: "Rodrigo C. Machado"
             institution: "UFRGS"
@@ -53,14 +53,14 @@ ic-track:
           - name: "Philippe O. A. Navaux"
             institution: "UFRGS"
       - title: "Proposta de um serviço de replicação desacoplado da aplicação"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/27992/27802"
         authors:
           - name: "Rafaela Tillmann"
             institution: "UFSC"
           - name: "Odorico M. Mendizabal"
             institution: "UFSC"
       - title: "Análise do Desempenho de Aplicações Paralelas geradas por Ferramentas de Inteligência Artificial"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/27993/27803"
         authors:
           - name: "João V. M. Dias"
             institution: "UFRGS"
@@ -79,14 +79,14 @@ ic-track:
     room: "Auditório"
     papers:
       - title: "Proposta de análise de desempenho entre OpenID Connect e Keycloak usando OpenID Connect"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/27994/27804"
         authors:
           - name: "Carlos D. S. Bunn"
             institution: "UDESC"
           - name: "Charles C. Miers"
             institution: "UDESC"
       - title: "Caracterização de Operações de E/S por meio da Análise de Logs"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/27995/27805"
         authors:
           - name: "Thomas S. Wiederkehr"
             institution: "UFRGS"
@@ -95,7 +95,7 @@ ic-track:
           - name: "Cristiano A. Künas"
             institution: "UFRGS"
       - title: "Predicting the efficiency of job scheduler actions"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/27996/27806"
         authors:
           - name: "Ana E. N. Kraus"
             institution: "UDESC"
@@ -104,7 +104,7 @@ ic-track:
           - name: "Guilherme P. Koslovski"
             institution: "UDESC"
       - title: "Análise da Variabilidade de Processos na Execução de Tarefas em Arquiteturas Heterogêneas"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/27998/27808"
         authors:
           - name: "Thiago dos S. Gonçalves"
             institution: "UFRGS"
@@ -113,7 +113,7 @@ ic-track:
           - name: "Arthur F. Lorenzon"
             institution: "UFRGS"
       - title: "Algoritmos de divisão de números complexos para aplicações de alto desempenho"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/27999/27809"
         authors:
           - name: "Marcelo D. Ribas"
             institution: "UFRGS"
@@ -131,7 +131,7 @@ ic-track:
     room: "Sala G22"
     papers:
       - title: "Avaliação da Biblioteca SCR em Instâncias AWS Spot Utilizando a Ferramenta HPC@Cloud"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28000/27810"
         authors:
           - name: "João Feres"
             institution: "UFSC"
@@ -140,14 +140,14 @@ ic-track:
           - name: "Márcio Castro"
             institution: "UFSC"
       - title: "Um estudo preliminar sobre o impacto de protocolos para controle de congestionamento em Edge-Cloud Continuum"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28001/27811"
         authors:
           - name: "Nicolas K. C. Sakashita"
             institution: "UDESC"
           - name: "Guilherme P. Koslovski"
             institution: "UDESC"
       - title: "Otimização de Configurações de Threads por Bloco para Kernels GPU na Exploração Geofísica"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28002/27812"
         authors:
           - name: "Brenda Schussler"
             institution: "UFRGS"
@@ -162,7 +162,7 @@ ic-track:
           - name: "Philippe O. A. Navaux"
             institution: "UFRGS"
       - title: "Comparing Burstable and On-Demand AWS EC2 Instances using NAS Parallel Benchmarks"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28003/27813"
         authors:
           - name: "Gian C. F. Ferrari"
             institution: "UFSC"
@@ -171,7 +171,7 @@ ic-track:
           - name: "Márcio Castro"
             institution: "UFSC"
       - title: "COTTONTRUST: Análise dos Tempos de Criação de Entidades com Base em Identidades Autossoberanas"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28004/27814"
         authors:
           - name: "Gilson Sohn Junior"
             institution: "UDESC"
@@ -182,7 +182,7 @@ ic-track:
           - name: "Mauricio A. Pillon"
             institution: "UDESC"
       - title: "Otimização de Programas de Escoamento de Fluidos em um Modelo Bidimensional"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28005/27815"
         authors:
           - name: "Anna V. G. Marciano"
             institution: "UNIPAMPA"
@@ -193,7 +193,7 @@ ic-track:
           - name: "Cesar F. C. Cristaldo"
             institution: "UNIPAMPA"
       - title: "Uma proposta de arquitetura para análise de desempenho de redes sem fio LoRa e ZigBee aplicada a um sistema de monitoramento ambiental de data center"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/27997/27807"
         authors:
           - name: "Rodrigo A. Krauel"
             institution: "UDESC"
@@ -209,7 +209,7 @@ ic-track:
     room: "Sala G22"
     papers:
       - title: "Usando aprendizado supervisionado para composição de políticas de escalonamento"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28006/27816"
         authors:
           - name: "Guilherme Diel"
             institution: "UDESC"
@@ -218,28 +218,28 @@ ic-track:
           - name: "Guilherme P. Koslovski"
             institution: "UDESC"
       - title: "Balanceamento de carga com reparticionamento contínuo em sistemas com estado particionado"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28007/27817"
         authors:
           - name: "Douglas P. Luiz"
             institution: "UFSC"
           - name: "Odorico M. Mendizabal"
             institution: "UFSC"
       - title: "Monitoramento de Resíduos Poluentes com Tecnologia de Comunicação LPWAN"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28008/27818"
         authors:
           - name: "Draylon V. Lopes"
             institution: "UDESC"
           - name: "Janine Kniess"
             institution: "UDESC"
       - title: "Transmissão Sem Fio em Altas Frequências para rede 5G e 6G"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28009/27819"
         authors:
           - name: "Marcos Hiarley "
             institution: "UFPA"
           - name: "Jose J. H. Ferreira Junior"
             institution: "UFPA"
       - title: "Profiling and Bottlenecks Analysis of an Agent-based Dengue Fever Simulation Model"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28010/27820"
         authors:
           - name: "Pablo A. S. Hugen"
             institution: "UNIOESTE"
@@ -250,7 +250,7 @@ ic-track:
           - name: "Eduardo A. A. Cunha"
             institution: "UNIOESTE"
       - title: "Censo Online COMPED Coleta e Tratamento de Dados de Pessoas com Deficiência para o Desenvolvimento de Políticas Públicas em Jaraguá do Sul"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28011/27821"
         authors:
           - name: "Lucas E. Sasse"
             institution: "SENAI/SC"
@@ -261,7 +261,7 @@ ic-track:
           - name: "Victor H. Furtado"
             institution: "SENAI/SC"
       - title: "Impactos da Ferramenta KerasTuner em Modelo de Predição Baseado em LSTM para Pecuária Sustentável"
-#        pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28012/27822"
         authors:
           - name: "Davi Lemos"
             institution: "UNIPAMPA"
@@ -282,14 +282,14 @@ pg-track:
     room: "Auditório"
     papers:
       - title: "Proposta de Paralelismo de Stream Multi-GPU em Multi-Cores"
-        #pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28013/27823"
         authors:
           - name: "Gabriel Fim"
             institution: "PUCRS"
           - name: "Dalvan Griebler"
             institution: "PUCRS"
       - title: "Em Direção a um Modelo de Programação Paralela Único para CPUs e GPUs em Processamento de Stream"
-        #pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28014/27824"
         authors:
           - name: "Gabriell Araujo"
             institution: "PUCRS"
@@ -298,21 +298,21 @@ pg-track:
           - name: "Luiz Gustavo Fernandes"
             institution: "PUCRS"
       - title: "Proposta de Pipelines Lineares de Alto Nível em Rust Utilizando GPU"
-        #pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28015/27825"
         authors:
           - name: "Leonardo Faé"
             institution: "PUCRS"
           - name: "Dalvan Griebler"
             institution: "PUCRS"
       - title: "Construção Paralela Lock-Free de Octrees Esparsas em GPU"
-        #pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28016/27826"
         authors:
           - name: "Michel Brasil Cordeiro"
             institution: "UFPR"
           - name: "Wagner Zola"
             institution: "UFPR"         
       - title: "Aprimorando o algoritmo SLIDE-GPU para Problemas de Classificação Extrema"
-        #pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28017/27827"
         authors:
           - name: "Michel Brasil Cordeiro"
             institution: "UFPR"
@@ -328,49 +328,49 @@ pg-track:
     room: "Auditório"
     papers:
       - title: "Análise da Pegada de Carbono em Aplicações Paralelas"
-        #pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28018/27828"
         authors:
           - name: "Arthur Silveira"
             institution: "Faculdade São Francisco de Assis"
           - name: "Arthur Lorenzon"
             institution: "UFRGS"          
       - title: "Infraestrutura como Código: A prova de Conceito para o Melhor Resultado em uma Pipeline de Desenvolvimento de Software"
-        #pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28019/27829"
         authors:
           - name: "Denis Citadin"
             institution: "UFRGS"
           - name: "Arthur Lorenzon"
             institution: "UFRGS"          
       - title: "Benchmark Study for Multiple Security Documents Enhancing SPIFFE/SPIRE Environment"
-        #pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28020/27830"
         authors:
           - name: "Henrique Zanela Cochak"
             institution: "UDESC"
           - name: "Charles Miers"
             institution: "UDESC"        
       - title: "Proposta de Reparticionamento Contínuo em Sistemas com Estado Particionado"
-        #pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28021/27831"
         authors:
           - name: "Douglas Luiz"
             institution: "UFSC"
           - name: "Odorico Mendizabal"
             institution: "UFSC"         
       - title: "Tolerância a Falhas para Paralelismo de Stream de Alto Nível"
-        #pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28022/27832"
         authors:
           - name: "Lucas Alf"
             institution: "PUCRS"
           - name: "Dalvan Griebler"
             institution: "PUCRS"         
       - title: "Em Direção à Programação Distribuída na Seleção de Planos em Sistemas Multi-Agentes"
-        #pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28023/27833"
         authors:
           - name: "Renato Barreto Hoffmann Filho"
             institution: "PUCRS"
           - name: "Dalvan Griebler"
             institution: "PUCRS"
       - title: "Tolerância a Falhas Bizantinas de Aplicações Provisionadas Localmente com Kubernetes: Uma Proposta Inicial"
-        #pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28024/27834"
         authors:
           - name: "Leonardo Anastácio"
             institution: "UDESC"
@@ -386,7 +386,7 @@ pg-track:
     room: "Auditório"
     papers:
       - title: "An Approach to Home Environment Monitoring of People with Disabilities Through AIoT"
-        #pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28025/27835"
         authors:
           - name: "Anita Fernandes"
             institution: "Univali"
@@ -395,14 +395,14 @@ pg-track:
           - name: "Juan Francisco de Paz Santana"
             institution: "Universidad de Salamanca"
       - title: "Proposta de Análise de Desempenho do Uso de Mecanismos de Segurança em Sistemas Inteligentes usando Aprendizado de Máquina e IA Gerativa Adversariais do Tipo LLM"
-        #pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28026/27836"
         authors:
           - name: "Milton Pagliuso Neto"
             institution: "UDESC"
           - name: "Charles Miers"
             institution: "UDESC"                  
       - title: "Uma Solução Integrada de Machine Learning e Deep Learning para Melhorar a Eficiência da Irrigação de Precisão"
-        #pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28027/27837"
         authors:
           - name: "Rogerio P dos Santos"
             institution: "Universidade Lusofona"
@@ -411,7 +411,7 @@ pg-track:
           - name: "Valderi Leithardt"
             institution: "Instituto Superior de Engenharia de Lisboa"
       - title: "Otimizando Aplicações de Aprendizado Profundo na Cloud"
-        #pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28028/27838"
         authors:
           - name: "Thiago Araújo"
             institution: "UFRGS"
@@ -424,14 +424,14 @@ pg-track:
           - name: "Beatriz Schaan"
             institution: "UFRGS"          
       - title: "Adicionando Elasticidade a Padrões Paralelos"
-        #pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28029/27839"
         authors:
           - name: "Cristiane de Andrade"
             institution: "Unioeste"
           - name: "Guilherme Galante"
             institution: "Unioeste"
       - title: "Aprendizado Federado com AutoKeras e Knowledge Distillation"
-        #pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28030/27840"
         authors:
           - name: "Bruno Meyer"
             institution: "UFPR"
@@ -442,7 +442,7 @@ pg-track:
           - name: "Wagner Zola"
             institution: "UFPR"
       - title: "Provisioning of Applications with Network Requirements on Cloud-Edge Continuum"
-        #pdf: ""
+        pdf: "https://sol.sbc.org.br/index.php/eradrs/article/view/28031/27841"
         authors:
           - name: "Paulo Albuquerque"
             institution: "UDESC"
