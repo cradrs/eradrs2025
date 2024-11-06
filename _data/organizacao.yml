@@ -1,54 +1,35 @@
 coordenacao-geral:
-    - Eduardo Camilo Inacio (UFSC/UniSENAI)
-    - Guilherme Koslovski (UDESC)
-    - Guilherme Galante (UNIOESTE)
-
-coordenacao-ic:
-    - Charles Miers (UDESC)
-    - Luis Bona (UFPR)
+    - Guilherme Galante (Unioeste)
+    - Fauzi de Moraes Shubeita (Setrem)
+    - Arthur Francisco Lorenzon (UFRGS)
 
 coordenacao-pg:
-    - Edson Padoin (Unijuí)
-    - Márcio Castro (UFSC)
+    - Marco Z. Alves (UFPR)
+    - Dalvan Griebler (PUC-RS)
+
+coordenacao-ic:
+    - Daniel F. Pigatto (UTFPR)
+    - Fabio Rossi (IF-Farroupilha)
 
 coordenacao-minicursos:
-    - Arthur Lorenzon (UFRGS)
-    - Marco Alves (UFPR)
+    - Lucas M. Schnorr (UFRGS)
+    - Guilherme P. Koslovski (UDESC)
 
 coordenacao-maratona:
-    - Mauricio Pillon (UDESC)
-    - João Lima (UFSM)
-    - Odorico Mendizabal (UFSC)
     - Calebe Bianchini (Mackenzie)
+    - Matheus Serpa
 
 #coordenacao-painel:
 #    - César De Rose (PUCRS)
 #    - Adenauer Yamin (UCPEL/UFPEL)
 
 whpc:
-    - Luciana Frigo (UFSC)
+    - Marcia Pasin (UFSM)
 
-wia:
-    - Matheus Serpa (UFRGS)
-    - Manuel Binelo (Unijuí)
+#equipe-local:
+    #
 
-equipe-local:
-    - Fernanda Tironi (UniSENAI)
-    - Henrique Benedetto Neto (UniSENAI)
-    - Lucas Vinicius Rack (UniSENAI)
-    - Maristela Schleicher Silveira (UniSENAI)
-    - Sandra Mara Brezinski Soares (UniSENAI)
-    - Willian Daniel de Mattos (UniSENAI)
-    #- Paulo Severo de Souza (PUCRS)
-    #- Carlos Kayser (PUCRS)
-    #- Lucas Roges (PUCRS)
-    #- Henrique Brum (PUCRS)
-    #- Renato Hoffmann (PUCRS)
-    #- Leonardo Mallmann (PUCRS)
-    #- Gabriella Andrade (PUCRS)
-    #- Caetano Muller (PUCRS)
-
-comite-ic:
+#comite-ic:
     - Adenauer Yamin (UCPEL e UFPEL)
     - Afonso Sales (PUCRS)
     - Ana Cristina B. Kochem Vendramin (Universidade Tecnológica Federal do Paraná)
