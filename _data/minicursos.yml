@@ -1,74 +1,93 @@
 tutorials:
   - id: MC1
-    date: "24/04 (09:00 - 11:30) — Laboratório G23"
+    date: "xx/xx (xx:xx - xx:xx) — Local"
     name: "Minicurso 1"
-    title: "Avaliação do Impacto de Containeres Docker em Docker para a Programação Paralela"
-    abstract: "Contêineres representam um paradigma de isolamento sem comprometer a velocidade e a eficiência. Docker, uma implementação específica de contêiner, revolucionou o cenário. Docker não apenas introduziu um formato de embalagem atraente, mas também forneceu ferramentas indispensáveis e promoveu um ecossistema diversificado. Uma imagem de contêiner Docker é como um pacote de software simplificado e independente, encapsulando tudo o que é essencial para executar um aplicativo: código, tempo de execução, ferramentas de sistema, bibliotecas e configurações. Quando implantadas, essas imagens de contêiner se transformam em contêineres ativos, uma transformação facilitada perfeitamente no Docker Engine para contêineres Docker. Compatível com aplicativos Linux e Windows, o software em contêiner garante uma operação consistente, independentemente da infraestrutura subjacente. Ao isolar o software do seu entorno, os contêineres garantem funcionalidade uniforme em diferentes ambientes, como desenvolvimento e preparação. Existem dois modelos predominantes para implementação baseada em contêiner dentro da estrutura de microsserviços: o modelo mestre-escravo e o modelo de contêiner aninhado (Docker in Docker - DinD). O modelo mestre-escravo compreende um contêiner mestre orquestrando outros como escravos, onde operam os processos da aplicação. O mestre é responsável por monitorar os contêineres subordinados e facilitar sua comunicação. Em contraste, a abordagem de contêiner aninhado envolve a criação hierárquica de contêineres subordinados (filhos) dentro de um contêiner principal (pai). O encapsulamento de todos os contêineres ocorre em um único contêiner. Essa abordagem simplifica o gerenciamento. Ele facilita a comunicação entre processos, garante o compartilhamento de destino e permite o compartilhamento de memória, disco e recursos de rede. No entanto, esta abordagem pode introduzir mais sobrecarga em comparação com o modelo mestre-escravo devido às suas duas camadas de daemon Docker. Nosso objetivo é mostrar como a avaliação de desempenho do Docker versus Docker in Docker (DinD) pode ser feita em diferentes distribuições GNU/Linux usando benchmarks estabelecidos. Ao avaliar CPU, memória, E/S de disco e E/S de rede, pode-se explorar o impacto do DinD em plataformas de infraestrutura como serviço (IaaS) em nuvem, como Google Compute Engine (GCE) e ambientes próprios.  Para tanto, será fornecido uma coleção de scripts automatizados para construção de imagens de contêiner e realização de benchmarks em Docker e DinD em diversas distribuições GNU/Linux. Esses scripts são adaptáveis, permitindo a adição de novas versões e fácil replicação de experimentos de avaliação de performance paralela."
+    title: "Processamento e análise de Big Data para aplicação de algoritmos de Machine Learning através da plataforma HPCC Systems"
+    abstract: "Ao longo do minicurso os participantes terão a oportunidade de conhecer os conceitos essenciais de processamento e análise de volumes massivos de dados (Big Data), e o processo de desenvolvimento de um serviço de consulta através da utilização da plataforma open-source composta por um Cluster Computacional de Alto Desempenho (HPCC Systems), assim como a aplicação de algoritmos de Aprendizado de Máquina, e a possibilidade de aplicar os conhecimentos adquiridos em um ambiente de treinamento disponibilizado em sala de aula."
+    authors:
+      - name: "Alysson Oliveira"
+        bio: "Alysson Oliveira é formado em Engenharia de Computação pela USP e atual engenheiro de software na LexisNexis Risk. Sua principal atuação gira em torno do suporte e desenvolvimento de programas de treinamento para a plataforma HPCC Systems no Brasil, abrangendo o público acadêmico, pesquisadores e profissionais da área da computação e de dados. Também busca estabelecer parcerias com universidades a fim de oferecer aos alunos de graduação a oportunidade de trabalhar em projetos científicos."
+        photo: ""
+        
+  - id: MC2
+    date: "xx/xx (xx:xx - xx:xx) — Local"
+    name: "Minicurso 2"
+    title: "Diretivas Paralelas de Programação"
+    abstract: "O minicurso tem como objetivo abordar a paralelização de aplicações usando diretivas das interfaces de programação paralela OpenMP e OpenACC. O uso de diretivas tem sido a forma mais fácil de acelerar uma aplicação tanto em CPU como em GPU, sem a necessidade de conhecimentos profundos a respeito de programação paralela. Através de exemplos práticos de aplicações consideradas simples, mas não as triviais vistas geralmente em cursos introdutórios, almeja-se apresentar os principais recursos para a execução concorrente de tarefas e de laços paralelos. As interfaces paralelas selecionadas também permitem o direcionamento da arquitetura alvo, o que posibilita o uso de uma mesma interface tanto para CPU como para GPU. "
     authors:
       - name: "Claudio Schepke"
-        bio: "Claudio Schepke tem experiência em programação paralela e ministra a mais de 10 anos disciplinas relacionadas à arquitetura e organização de computadores, programação estruturada e programação paralela, sistemas operacionais e compiladores. Tem sido um ativo colaborador da ERAD/RS nas mais diferentes formas, destacando-se nas atividades de minicursos. É doutor, mestre e graduado em Ciência da Computação."
-        photo: "claudioSchepke.jpg"
-      - name: "Felipe Bedinotto Fava"
-        bio: "Felipe Bedinotto Fava é concluinte do Curso de Ciência da Computação da Unipampa. Atua profissionalmente como desenvolvedor de software para diferentes finalidades e fazendo uso de distintas interfaces de programação e ambiente de processamento, sejam aplicativos de celular, servidores Web ou em ambientes de nuvem."
-        photo: "felipeBedinotto.jpeg"
-      - name: "Diego Luiz Kreutz"
-        bio: "Diego Luis Kreutz realizou estágio de pós-doutorado na Universidade de Monash (Austrália), possui doutorado pela Universidade de Luxemburgo (Luxemburgo), mestrado em Informática pelo PPGI/UFSM, mestrado em Engenharia de Produção pelo PPGEP/UFSM e graduação em Ciência da Computação pela UFSM. Possui experiências internacionais em pesquisa, desenvolvimento e inovação no LaSIGE/ULisboa/Portugal e CritiX/UNI/Luxemburgo. Durante essas experiências, atuou em projetos internacionais com pesquisadores e especialistas de instituições estrangeiras como CMU/USA, UPorto/Portugal, UCoimbra/Portugal, Portugal Telecom/Portugal, TUM/Alemanha, Infineon/Alemanha, Ether Trust/França, UPMC/França e SnT/Luxemburgo. Atualmente é professor e pesquisador na Unipampa. Possui experiência na área de Ciência da Computação, com ênfase em Segurança da Informação, Redes de Computadores, Sistemas Distribuídos, Tolerância a Falhas e Intrusões e Desenvolvimento de Software, atuando principalmente nos seguintes temas: segurança de infraestruturas de redes; segurança de sistemas; proteção de dados; projeto, implementação e verificação automática de protocolos e mecanismos de segurança avançados; privacidade; tolerância a falhas e intrusões; sistemas de larga escala e alta disponibilidade com computação em nuvem; e desenvolvimento e avaliação de sistemas e aplicações."
-        photo: "diegoKreutz.jpeg"
-  - id: MC2
-    date: "24/04 (09:00 - 11:30) — Sala G22"
-    name: "Minicurso 2"
-    title: "Exploração do Paralelismo nas Arquiteturas de Computadores Atuais (Básico)"
-    abstract: "A exploração do paralelismo em arquiteturas de computadores atuais tem se tornado uma área de extrema relevância e interesse, impulsionada pela necessidade de lidar com cargas de trabalho cada vez mais complexas e exigentes. Com o avanço das tecnologias e a demanda por desempenho computacional escalável, tem-se buscado diferentes formas de aproveitar o paralelismo em diversos níveis, desde instruções vetoriais do processador até a exploração de sistemas de memória distribuída e aceleradores. Essa abordagem permite a execução de múltiplas tarefas simultaneamente, resultando em ganhos significativos de desempenho. Sob este escopo, este minicurso tem o objetivo de oferecer uma visão geral dos diferentes aspectos do paralelismo nas arquiteturas de computadores atuais."
-    authors:
-      - name: "Guilherme Galante"
-        bio: "Bacharel em Informática pela Universidade Estadual do Oeste do Paraná (2003), Mestre pela Universidade Federal do Rio Grande do Sul (2006) e Doutor pela Universidade Federal do Paraná (2014). É Professor do curso de Ciência da Computação da Universidade Estadual do Oeste do Paraná desde 2006 e do Programa de Pós-Graduação em Computação (PPGComp) desde 2019. As áreas de atuação são: Sistemas Computacionais, Computação Paralela, Computação em Nuvem e Computação Aplicada."
-        photo: "guilhermeGalante.jpeg"
+        bio: "Claudio Schepke tem experiência no ensino e no desenvolvimento de programas paralelos e está sempre disposto a colaborar com a ERAD/RS, especialmente sob forma de minicursos. "
+        photo: ""
+        
   - id: MC3
-    date: "25/04 (09:00 - 11:30) — Laboratório G23"
+    date: "xx/xx (xx:xx - xx:xx) — Local"
     name: "Minicurso 3"
-    title: "Programação Paralela com OpenMP: Modelos de Tarefas"
-    abstract: "Este minicurso tem como objetivo apresentar técnicas de programação paralela utilizando diretivas do OpenMP, com ênfase nos modelos de tarefas. Serão abordadas as modificações necessárias no código-fonte para implementar esses modelos, e os resultados obtidos serão avaliados por meio de métricas de desempenho, como aceleração e eficiência."
+    title: "Programação de Alto Desempenho em GPUs com C++"
+    abstract: "Este minicurso apresenta uma visão prática de como explorar o poder de processamento das GPUs na linguagem C++. Iniciaremos abordando o modelo de computação das GPUs, contrastando brevemente sua arquitetura com a das CPUs e destacando situações em que a aceleração via GPU faz mais sentido. Abordaremos conceitos fundamentais de hardware (Streaming Multiprocessors, warps/wavefronts) e do ecossistema de memórias (global, compartilhada, local e constante), além do fluxo básico de execução (Grids, Blocks e Threads).
+Na sequência, conheceremos as alternativas atuais de modelos de programação paralela em GPU disponíveis em C++, como Compute Shaders (GLSL, HLSL, Slang), CUDA, HIP (ROCm), OpenCL, OpenMP, OpenACC, SYCL e bibliotecas de alto nível (Thrust, ArrayFire, Kokkos, RAJA etc.). Também discutiremos as perspectivas de padronização do paralelismo no C++ – incluindo como essas tecnologias podem, eventualmente, convergir para um “padrão”.
+O foco principal recai sobre o modelo assíncrono e heterogêneo de execução do C++26, o stdexec, que possibilita organizar código paralelo e concorrente de forma estruturada e modular. Serão explicados os conceitos de Schedulers (para CPU, GPU única e múltiplas GPUs), bem como de Senders e a criação de pipelines de trabalho “preguiçosos” (lazy work pipelines) para controle de fluxo e encadeamento de tarefas de maneira clara e eficiente.
+Durante o minicurso, os participantes terão uma visão prática do ambiente de desenvolvimento, cobrindo o uso do Nvidia HPC SDK, containers Docker com acesso a GPUs e a configuração de um projeto com CMake e stdexec. Também serão demonstradas técnicas básicas de perfilamento de código para identificar gargalos e otimizar o desempenho. Ao término, os participantes estarão aptos a criar aplicações em C++ que aproveitem a capacidade de processamento das GPUs, compreendendo desde conceitos fundamentais até o uso de ferramentas de programação paralela."
+
     authors:
-      - name: "Gabriel P. Silva"
-        bio: "Gabriel P. Silva tem doutorado em Engenharia de Sistemas e Computação pela Universidade Federal do Rio de Janeiro. Atualmente é Professor Titular do Instituto de Computação da UFRJ. Tem larga experiência na área de Ciência da Computação, com ênfase em Arquitetura de Sistemas de Computação, atuando principalmente nos seguintes temas: arquitetura de computadores, programação paralela, computação de alto desempenho e internet das coisas."
-        photo: "gabrielSilva.jpg"
-      - name: "Calebe P. Bianchini"
-        bio: "Calebe P. Bianchini tem mais de 20 anos de experiência com computação paralela e distribuída, participação em diversos projetos de pesquisa e desenvolvimento de software de diversos tamanhos, para diversas empresas (por exemplo, Petrobras, Shell, Intel etc.). Hoje é professor da Universidade Presbiteriana Mackenzie, atuando também com pesquisa, e gerencia pequenas equipes de desenvolvimento de software in-house. Formou-se em Ciência da Computação na UFSCar (2000), com mestrado na UFSCar (2002) e doutorado na POLI/USP (2009). "
-        photo: "calebe.jpeg"
-      - name: "Evaldo B. Costa"
-        bio: "Evaldo B. Costa é Engenheiro de telecomunicações, mestre e doutor em informática pela Universidade Federal do Rio de Janeiro (UFRJ). Possui mais de vinte anos de experiência na área de Tecnologia da Informação e atua principalmente nos seguintes temas: programação paralela e computação de alto desempenho. "
-        photo: "evaldoCosta.jpeg"
+      - name: "Pablo Hugen"
+        bio: "Formado em Ciência da Computação pela Universidade Estadual do Oeste do Paraná (2024), atua profissionalmente como Programador de Sistemas. Entusiasta de programação de baixo nível, computação paralela/distribuída, FOSS e Data Oriented Design."
+        photo: ""
+        
   - id: MC4
-    date: "25/04 (09:00 - 11:30) — Sala G22"
+    date: "xx/xx (xx:xx - xx:xx) — Local"
     name: "Minicurso 4"
+    title: "Maximizando o Potencial da IA Generativa com Computação de Alto Desempenho"
+    abstract: "Modelos de Inteligência Artificial Generativa, como ChatGPT da OpenAI, Llama da Meta e Stable Diffusion, estão revolucionando a forma como interagimos com a tecnologia. No entanto, essas aplicações demandam alto desempenho computacional para tarefas como inferência e fine-tuning. Este minicurso apresenta uma abordagem prática e técnica para otimizar o desempenho da IA Generativa em ambientes de computação de alto desempenho (HPC), explorando comparações diretas do desempenho entre CPUs, GPUs e TPUs.
+
+Os participantes aprenderão a configurar ambientes no Google Colab, utilizar ferramentas como PyTorch, TensorFlow e Hugging Face, e realizar benchmarks práticos para compreender as variações de desempenho entre diferentes arquiteturas de computadores. O minicurso também abordará a quantização para otimização de memória e estratégias para fine-tuning de modelos menores e acessíveis em GPUs e TPUs de baixa capacidade.
+
+Este minicurso é ideal para profissionais, acadêmicos e estudantes interessados em explorar o impacto da computação de alto desempenho na prática da IA Generativa, com foco em aplicações reais, como geradores de texto e imagens, modelos de linguagem para chatbots e integração de modelos com aplicações reais."
+    authors:
+      - name: "Matheus Serpa"
+        bio: "Matheus da Silva Serpa é Doutor em Computação pela UFRGS e está cursando o MBA Executivo em Liderança e Inovação pela Fundação Getulio Vargas (FGV). Possui Mestrado em Computação pela UFRGS, com um período sanduíche na Université de Neuchâtel, Suíça, e é Bacharel em Ciência da Computação pela UNIPAMPA. Atua ativamente na comunidade de HPC, oferecendo minicursos sobre programação paralela, distribuída, aceleradores e inteligência artificial em eventos como ERAD/RS, SSCAD e no Programa de Verão do LNCC."
+        photo: ""
+      - name: "Cristiano Alex Künas"
+        bio: "Cristiano Alex Künas é doutorando pela Universidade Federal do Rio Grande do Sul (UFRGS), sob orientação do Prof. Dr. Philippe Olivier Alexandre Navaux. Obteve o título de Mestre em Computação pela UFRGS em 2023, com foco na otimização do treinamento de modelos de aprendizado de máquina em ambientes de computação em nuvem. É Bacharel em Ciência da Computação pela Universidade Regional do Noroeste do Estado do Rio Grande do Sul (UNIJUI). As principais áreas de pesquisa são computação de alto desempenho e computação em nuvem."
+        photo: ""
+     - name: ""
+       bio: "Philippe O. A. Navaux é professor emérito do Instituto de Informática da UFRGS, Doutor em Computação pelo INPG, França, 1979. Pesquisador nível 1 do CNPq nas áreas de Arquitetura de Computadores e HPC. Orientou mais de 100 estudantes de doutorado e mestrado e publicou mais de 400 artigos em periódicos e conferências. Sócio da SBC, SBPC, ACM e IEEE. Foi coordenador do Comitê da Computação da Capes, CNPq e Fapergs. Foi conselheiro da UFRGS, da Fapergs, do CATI/MCTI e do LNCC. Atualmente é membro do conselho do CIEE-RS e presidente do Conselho do SCALAC."
+       photo: ""     
+        
+  - id: MC5
+    date: "xx/xx (xx:xx - xx:xx) — Local"
+    name: "Minicurso 5"
+    title: "Multi-GPU Multi-Node Programming"
+    abstract: "Scaling applications to multiple GPUs across multiple nodes requires one to be adept at not just the programming models and optimization techniques, but also at performing root-cause analysis using in-depth profiling to identify and minimize bottlenecks. In this bootcamp, participants will learn to improve the performance of an application step-by-step, taking cues from profilers along the way. Moreover, understanding of the underlying technologies and communication topology will help us utilize high-performance NVIDIA libraries to extract more performance out of the system."
+    authors:
+      - name: "Pedro Mário Cruz e Silva"
+        bio: "Pedro Mário Cruz e Silva é Bacharel em Matemática (1995) e Mestre em Matemática Aplicada e Otimização (1998) pela UFPE, Doutor em Computação Gráfica pela PUC-Rio (2004). Trabalhou por 15 anos no Instituto Tecgraf/PUC-Rio onde criou o Grupo de Geofísica Computacional, durante este período liderou diversos projetos de Desenvolvimento de Software, bem como projetos de Pesquisa na área de Geofísica. Finalizou o MBA em Gestão Empresarial na FGV-Rio. Atualmente é Arquitetura de Soluções Sênior da NVIDIA para América Latina."
+        photo: ""   
+
+  - id: MC6
+    date: "xx/xx (xx:xx - xx:xx) — Local"
+    name: "Minicurso 6"
+    title: "Programação Avançada de Múltiplas GPUs com OpenACC"
+    abstract: "Este minicurso tem como objetivo apresentar técnicas de programação paralela para processadores multinúcleo e aceleradores utilizando OpenACC usando cláusulas como, por exemplo, async e wait, com ênfase nos modelos de paralelismo em multi aceleradores. Serão abordadas as modificações necessárias no código-fonte para implementar esses modelos, e os resultados obtidos serão avaliados por meio de métricas de desempenho, como aceleração, eficiência e ocupação."
+    authors:
+      - name: "Calebe de Paula Bianchini"
+        bio: "Calebe de Paula Bianchini é formado em Ciência da Computação na UFSCar, onde também obteve o título de mestre. Finalizou seu doutorado em Engenharia da Computação pela POLI/USP em 2009. Somados, já são mais de 19 anos de experiência com Computação de Alto Desempenho, com participação em diversos projetos de pesquisa e desenvolvimento com Petrobras, Shell, Intel, CERN, dentre outros. Atualmente é professor e pesquisador na Universidade Presbiteriana Mackenzie e de Centro Universitário FEI. É um membro ativo na comunidade brasileira de Computação de Alto Desempenho, especialmente na organização de competições e desafios nesta área. É também Embaixador Universitário do Deep Learning Institute da NVIDIA, ministrando cursos relacionados à Computação de Alto Desempenho em GPUs NVidia."
+        photo: ""
+     - name: "Evaldo Bezerra da Costa"
+       bio: "Evaldo Bezerra da Costa é graduado em Engenharia Elétrica, ênfase em Telecomunicações pela Universidade Estácio de Sá (2010), com mestrado (2014) e doutorado (2022) em Informática pela Universidade Federal do Rio de Janeiro. Tem experiência na área de Ciência da Computação, atuando principalmente nos seguintes temas: programação paralela, computação de alto desempenho, inteligência artificial e bioinformática."
+       photo: ""
+     - name: "Gabriel Pereira da Silva"
+       bio: "Gabriel P. Silva tem doutorado em Engenharia de Sistemas e Computação pela Universidade Federal do Rio de Janeiro. Atualmente é Professor Titular do Instituto de Computação da UFRJ. Tem larga experiência na área de Ciência da Computação, com ênfase em Arquitetura de Sistemas de Computação, atuando principalmente nos seguintes temas: arquitetura de computadores, programação paralela, computação de alto desempenho e
+internet das coisas."
+       photo: ""                  
+
+        
+  - id: MC7
+    date: "xx/xx (xx:xx - xx:xx) — Local"
+    name: "Minicurso 6"
     title: "Armazenamento – Melhores Práticas – Entendendo do básico ao avançado"
-    abstract: "O minicurso de armazenamento abordará as principais formas de conexões existentes, tais como SATA, SCSI, SAS, iSCSI, Fibre Channel, entre outras. Os participantes poderão compreender as vantagens e desvantagens de cada uma dessas opções, bem como entender a importância da escolha correta na hora de definir a solução de armazenamento adequada para cada situação, desde o seu notebook até um sistema de storage distribuido. Serão discutidos os diversos tipos de dispositivos de armazenamento existentes no mercado, tais como unidades de disco rígido (HDD), unidades de estado sólido (SSD), unidades de fita (tape drive), cartões de memória, entre outros. O treinamento disponibilizado será interativo, com vários equipamentos para serem vistos durante o minicurso."
+    abstract: "O minicurso de armazenamento abordará as principais formas de conexões existentes, tais como SATA, SCSI, SAS, iSCSI, Fibre Channel, entre outras. Os participantes poderão compreender as vantagens e desvantagens de cada uma dessas opções, bem como entender a importância da escolha correta na hora de definir a solução de armazenamento adequada para cada situação, desde o seu notebook até um sistema de storage distribuido. Serão discutidos os diversos tipos de dispositivos de armazenamento existentes no mercado, tais como unidades de disco rígido (HDD), unidades de estado sólido (SSD), unidades de fita (tape drive), cartões de memória, entre outros."
     authors:
       - name: "Guilherme Friol"
-        bio: "Guilherme Friol é especialista em computação com anos de experiência em ambientes computacionais de alta demanda, virtualização e HPC. Atua como consultor em arquitetura e otimização de sistemas de alto desempenho. Desenvolveu projetos relevantes junto a grandes instituições de pesquisa e notórios nomes da computação nacional em machine learning e redes neurais. Entre os projetos estão: Predição de Inibidores de Protease de Cisteína para Agentes Tripanocidas e Câncer (USP); Simulação de controle de veículo espacial e orientação de órbita (LAC-INPE); Pesquisa sobre plasmas astrofísicos e turbulências espaciais (ITA); Pesquisa em Astrofísica e física molecular (UNIVAP), entre  outros."
-        photo: "guilhermeFriol.png"
-  - id: MC5
-    date: "26/04 (09:00 - 11:30) — Laboratório G23"
-    name: "Minicurso 5"
-    title: "Programação de sistemas heterogêneos em OpenMP"
-    abstract: "Arquiteturas heterogêneas com CPUs e GPUs têm se tornado cada vez mais frequentes em sistemas de computação de alto desempenho. Extrair todo o seu potencial de desempenho, assim como a capacidade de escrever e otimizar códigos de aplicações que possam ser executadas de forma eficiente em diferentes infra-estruturas de HPC, são requisitos importantes para a resolução de problemas e aplicações da indústria. Este minicurso explora a abordagem de programação por diretivas oferecida pelo OpenMP, mostrando de forma simplificada alguns caminhos para a implementação e otimização de aplicações para sistemas heterogêneos com foco em GPUs. "
-    authors:
-      - name: "Hermes Senger"
-        bio: "Hermes Senger é professor da UFSCAR desde 2009, atuando no ensino, pesquisa e extensão em temas relacionados à computação de alto desempenho. "
-        photo: "hermesSenger.jpeg"
-  - id: MC6
-    date: "26/04 (09:00 - 11:30) — Sala G22"
-    name: "Minicurso 6"
-    title: "Desvendando Data Science em Sistemas Distribuídos com Apache Spark"
-    pdf: "cap-1.pdf"
-    abstract: "Na era atual da tecnologia, onde dados são gerados e consumidos em uma escala sem precedentes, a Ciência de Dados emergiu como um campo crucial para transformar esses dados em insights valiosos. Com a crescente complexidade e o aumento do volume de dados, torna-se essencial empregar técnicas eficientes em sistemas distribuídos para lidar com esses desafios. O Apache Spark, uma ferramenta poderosa para o processamento de dados em larga escala, desempenha um papel vital nesse cenário, permitindo a análise e o processamento de dados de maneira rápida e eficiente. Neste minicurso, os participantes serão imersos no mundo da Ciência de Dados aplicada a sistemas distribuídos. O curso abordará desde conceitos fundamentais de Data Science e suas aplicações práticas até o uso do Apache Spark. Será dada ênfase especial à capacidade do Spark de realizar processamento de dados em ambientes de alto desempenho. Os alunos aprenderão como o Apache Spark facilita o trabalho com grandes volumes de dados, além de explorar suas funcionalidades em análises de dados e machine learning. Um dos destaques do curso será o desenvolvimento de um projeto de Data Science end-to-end, que envolverá desde a extração dos dados e transformação até o treinamento de um modelo de Machine Learning, deployment e integração via frontend. Este curso oferece uma oportunidade única para profissionais e entusiastas da área entenderem como maximizar o potencial da Ciência de Dados em sistemas distribuídos, utilizando uma das ferramentas mais influentes da atualidade."
-    authors:
-      - name: "Alexandre Castro"
-        bio: "Alexandre Castro é Data Engineer e está concluindo sua especialização em Big Data no Instituto Infnet. Ele se destaca na implementação de soluções de Data Lakehouse e Data Warehouse, com experiência em ambientes Azure e AWS, e também tem contribuições em projetos On-Premises. Alexandre é especializado no desenvolvimento de algoritmos de Machine Learning utilizando Spark, e suas certificações incluem Microsoft Certified: Azure Data Fundamentals, Microsoft Certified: Azure Fundamentals e Academy Accreditation - Databricks Lakehouse Fundamentals. Reconhecido por sua versatilidade e dedicação,  é um profissional comprometido com a excelência em projetos de engenharia de dados."
-        photo: "AlexandreCastro.jpeg"
-      - name: "Letícia Moura"
-        bio: "Letícia Moura é graduada em Engenharia de Produção pelo Centro Universitário Serra dos Órgãos (UNIFESO) e atua como Analytics Engineer. Nessa posição, ela aplica sua expertise para transformar dados em insights valiosos, utilizando ferramentas como Power BI, Tableau, Google Data Studio e Python. Suas habilidades são fundamentais para impulsionar decisões estratégicas e promover o crescimento sustentável dos negócios. Com experiência em gestão de produtos e projetos, Letícia contribuiu de forma eficaz com clientes renomados, utilizando análises de dados para enfrentar desafios complexos e contribuir significativamente para o sucesso das empresas."
-        photo: "LeticiaMoura.png"
-      - name: "Matheus da Silva Serpa"
-        bio: "Matheus da Silva Serpa é Tech Lead de Ciência de Dados e Doutor em Computação pela Universidade Federal do Rio Grande do Sul (UFRGS). Especializou-se no desenvolvimento de produtos de dados, abrangendo desde a construção de pipelines eficientes para extração, validação e carregamento de dados até o desenvolvimento e implementação de soluções avançadas de machine learning, com foco na otimização e eficiência em ambientes empresariais. Possui Mestrado em Computação pela UFRGS, incluindo um período sanduíche na Université de Neuchatel, Suíça. Reconhecido com o Prêmio Aluno Destaque da Sociedade Brasileira de Computação (SBC), Matheus também tem contribuído para a comunidade acadêmica ministrando minicursos de programação paralela e distribuída em eventos como ERAD/RS, WSCAD e no Programa de Verão do Laboratório Nacional de Computação Científica (LNCC)."
-        photo: "MatheusSerpa.jpeg"
+        bio: "Guilherme Friol é especialista em computação com anos de experiência em ambientes computacionais de alta demanda, virtualização e HPC. Atua como consultor em arquitetura e otimização de sistemas de alto desempenho. Desenvolveu projetos relevantes junto a grandes instituições de pesquisa e notórios nomes da computação nacional em machine learning e redes neurais. Entre os projetos estão: Predição de Inibidores de Protease de Cisteína para Agentes Tripanocidas e Câncer (USP); Simulação de controle de veículo espacial e orientação de órbita (LAC-INPE); Pesquisa sobre plasmas astrofísicos e turbulências espaciais (ITA); Pesquisa em Astrofísica e física molecular (UNIVAP), entre outros."
+        photo: ""            
+
