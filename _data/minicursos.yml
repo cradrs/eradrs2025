@@ -39,7 +39,7 @@ tutorials:
     authors:
       - name: "Matheus Serpa"
         bio: "Matheus da Silva Serpa é Doutor em Computação pela UFRGS e está cursando o MBA Executivo em Liderança e Inovação pela Fundação Getulio Vargas (FGV). Possui Mestrado em Computação pela UFRGS, com um período sanduíche na Université de Neuchâtel, Suíça, e é Bacharel em Ciência da Computação pela UNIPAMPA. Atua ativamente na comunidade de HPC, oferecendo minicursos sobre programação paralela, distribuída, aceleradores e inteligência artificial em eventos como ERAD/RS, SSCAD e no Programa de Verão do LNCC."
-        photo: "Branco.png"
+        photo: "MatheusSerpa.jpeg"
 
 
   - id: MC5
@@ -51,6 +51,23 @@ tutorials:
       - name: "Pedro Mário Cruz e Silva"
         bio: "Pedro Mário Cruz e Silva é Bacharel em Matemática (1995) e Mestre em Matemática Aplicada e Otimização (1998) pela UFPE, Doutor em Computação Gráfica pela PUC-Rio (2004). Trabalhou por 15 anos no Instituto Tecgraf/PUC-Rio onde criou o Grupo de Geofísica Computacional, durante este período liderou diversos projetos de Desenvolvimento de Software, bem como projetos de Pesquisa na área de Geofísica. Finalizou o MBA em Gestão Empresarial na FGV-Rio. Atualmente é Arquitetura de Soluções Sênior da NVIDIA para América Latina."
         photo: "PedroMario.jpeg"
+
+
+  - id: MC6
+    date: "xx/xx (xx:xx - xx:xx) — Local"
+    name: "Minicurso 6"
+    title: "Programação Avançada de Múltiplas GPUs com OpenACC"
+    abstract: "Este minicurso tem como objetivo apresentar técnicas de programação paralela para processadores multinúcleo e aceleradores utilizando OpenACC usando cláusulas como, por exemplo, async e wait, com ênfase nos modelos de paralelismo em multi aceleradores. Serão abordadas as modificações necessárias no código-fonte para implementar esses modelos, e os resultados obtidos serão avaliados por meio de métricas de desempenho, como aceleração, eficiência e ocupação."
+    authors:
+      - name: "Calebe de Paula Bianchini"
+        bio: "Calebe de Paula Bianchini é formado em Ciência da Computação na UFSCar, onde também obteve o título de mestre. Finalizou seu doutorado em Engenharia da Computação pela POLI/USP em 2009. Somados, já são mais de 19 anos de experiência com Computação de Alto Desempenho, com participação em diversos projetos de pesquisa e desenvolvimento com Petrobras, Shell, Intel, CERN, dentre outros. Atualmente é professor e pesquisador na Universidade Presbiteriana Mackenzie e de Centro Universitário FEI. É um membro ativo na comunidade brasileira de Computação de Alto Desempenho, especialmente na organização de competições e desafios nesta área. É também Embaixador Universitário do Deep Learning Institute da NVIDIA, ministrando cursos relacionados à Computação de Alto Desempenho em GPUs NVidia."
+        photo: "Branco.png"
+      - name: "Evaldo Bezerra da Costa"
+        bio: "Evaldo Bezerra da Costa é graduado em Engenharia Elétrica, ênfase em Telecomunicações pela Universidade Estácio de Sá (2010), com mestrado (2014) e doutorado (2022) em Informática pela Universidade Federal do Rio de Janeiro. Tem experiência na área de Ciência da Computação, atuando principalmente nos seguintes temas: programação paralela, computação de alto desempenho, inteligência artificial e bioinformática."
+        photo: "Branco.png"
+      - name: "Gabriel Pereira da Silva"
+        bio: "Gabriel P. Silva tem doutorado em Engenharia de Sistemas e Computação pela Universidade Federal do Rio de Janeiro. Atualmente é Professor Titular do Instituto de Computação da UFRJ. Tem larga experiência na área de Ciência da Computação, com ênfase em Arquitetura de Sistemas de Computação, atuando principalmente nos seguintes temas: arquitetura de computadores, programação paralela, computação de alto desempenho e internet das coisas."
+        photo: "Branco.png"
 
 
   - id: MC7
