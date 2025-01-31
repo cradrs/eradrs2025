@@ -27,7 +27,6 @@ tutorials:
 Na sequência, conheceremos as alternativas atuais de modelos de programação paralela em GPU disponíveis em C++, como Compute Shaders (GLSL, HLSL, Slang), CUDA, HIP (ROCm), OpenCL, OpenMP, OpenACC, SYCL e bibliotecas de alto nível (Thrust, ArrayFire, Kokkos, RAJA etc.). Também discutiremos as perspectivas de padronização do paralelismo no C++ – incluindo como essas tecnologias podem, eventualmente, convergir para um “padrão”.
 O foco principal recai sobre o modelo assíncrono e heterogêneo de execução do C++26, o stdexec, que possibilita organizar código paralelo e concorrente de forma estruturada e modular. Serão explicados os conceitos de Schedulers (para CPU, GPU única e múltiplas GPUs), bem como de Senders e a criação de pipelines de trabalho “preguiçosos” (lazy work pipelines) para controle de fluxo e encadeamento de tarefas de maneira clara e eficiente.
 Durante o minicurso, os participantes terão uma visão prática do ambiente de desenvolvimento, cobrindo o uso do Nvidia HPC SDK, containers Docker com acesso a GPUs e a configuração de um projeto com CMake e stdexec. Também serão demonstradas técnicas básicas de perfilamento de código para identificar gargalos e otimizar o desempenho. Ao término, os participantes estarão aptos a criar aplicações em C++ que aproveitem a capacidade de processamento das GPUs, compreendendo desde conceitos fundamentais até o uso de ferramentas de programação paralela."
-
     authors:
       - name: "Pablo Hugen"
         bio: "Formado em Ciência da Computação pela Universidade Estadual do Oeste do Paraná (2024), atua profissionalmente como Programador de Sistemas. Entusiasta de programação de baixo nível, computação paralela/distribuída, FOSS e Data Oriented Design."
@@ -38,9 +37,7 @@ Durante o minicurso, os participantes terão uma visão prática do ambiente de 
     name: "Minicurso 4"
     title: "Maximizando o Potencial da IA Generativa com Computação de Alto Desempenho"
     abstract: "Modelos de Inteligência Artificial Generativa, como ChatGPT da OpenAI, Llama da Meta e Stable Diffusion, estão revolucionando a forma como interagimos com a tecnologia. No entanto, essas aplicações demandam alto desempenho computacional para tarefas como inferência e fine-tuning. Este minicurso apresenta uma abordagem prática e técnica para otimizar o desempenho da IA Generativa em ambientes de computação de alto desempenho (HPC), explorando comparações diretas do desempenho entre CPUs, GPUs e TPUs.
-
 Os participantes aprenderão a configurar ambientes no Google Colab, utilizar ferramentas como PyTorch, TensorFlow e Hugging Face, e realizar benchmarks práticos para compreender as variações de desempenho entre diferentes arquiteturas de computadores. O minicurso também abordará a quantização para otimização de memória e estratégias para fine-tuning de modelos menores e acessíveis em GPUs e TPUs de baixa capacidade.
-
 Este minicurso é ideal para profissionais, acadêmicos e estudantes interessados em explorar o impacto da computação de alto desempenho na prática da IA Generativa, com foco em aplicações reais, como geradores de texto e imagens, modelos de linguagem para chatbots e integração de modelos com aplicações reais."
     authors:
       - name: "Matheus Serpa"
