@@ -8,3 +8,15 @@ tutorials:
       - name: "Alysson Oliveira"
         bio: "Alysson Oliveira é formado em Engenharia de Computação pela USP e atual engenheiro de software na LexisNexis Risk. Sua principal atuação gira em torno do suporte e desenvolvimento de programas de treinamento para a plataforma HPCC Systems no Brasil, abrangendo o público acadêmico, pesquisadores e profissionais da área da computação e de dados. Também busca estabelecer parcerias com universidades a fim de oferecer aos alunos de graduação a oportunidade de trabalhar em projetos científicos."
         photo: "Branco.png"
+
+
+  - id: MC2
+    date: "xx/xx (xx:xx - xx:xx) — Local"
+    name: "Minicurso 2"
+    title: "Diretivas Paralelas de Programação"
+    abstract: "O minicurso tem como objetivo abordar a paralelização de aplicações usando diretivas das interfaces de programação paralela OpenMP e OpenACC. O uso de diretivas tem sido a forma mais fácil de acelerar uma aplicação tanto em CPU como em GPU, sem a necessidade de conhecimentos profundos a respeito de programação paralela. Através de exemplos práticos de aplicações consideradas simples, mas não as triviais vistas geralmente em cursos introdutórios, almeja-se apresentar os principais recursos para a execução concorrente de tarefas e de laços paralelos. As interfaces paralelas selecionadas também permitem o direcionamento da arquitetura alvo, o que posibilita o uso de uma mesma interface tanto para CPU como para GPU. "
+    authors:
+      - name: "Claudio Schepke"
+        bio: "Claudio Schepke tem experiência no ensino e no desenvolvimento de programas paralelos e está sempre disposto a colaborar com a ERAD/RS, especialmente sob forma de minicursos. "
+        photo: "Schepke.jpg"
+
