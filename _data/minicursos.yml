@@ -42,7 +42,7 @@ tutorials:
 
   - id: MC5
     date: "24/04 (8:30 - 11:30) — LAB2"
-    name: "Minicurso 1"
+    name: "Minicurso 5"
     title: "Processamento e análise de Big Data para aplicação de algoritmos de Machine Learning através da plataforma HPCC Systems"
     abstract: "Ao longo do minicurso os participantes terão a oportunidade de conhecer os conceitos essenciais de processamento e análise de volumes massivos de dados (Big Data), e o processo de desenvolvimento de um serviço de consulta através da utilização da plataforma open-source composta por um Cluster Computacional de Alto Desempenho (HPCC Systems), assim como a aplicação de algoritmos de Aprendizado de Máquina, e a possibilidade de aplicar os conhecimentos adquiridos em um ambiente de treinamento disponibilizado em sala de aula."
     authors:
