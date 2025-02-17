@@ -40,6 +40,16 @@ tutorials:
         bio: "Pedro Mário Cruz e Silva é Bacharel em Matemática (1995) e Mestre em Matemática Aplicada e Otimização (1998) pela UFPE, Doutor em Computação Gráfica pela PUC-Rio (2004). Trabalhou por 15 anos no Instituto Tecgraf/PUC-Rio onde criou o Grupo de Geofísica Computacional, durante este período liderou diversos projetos de Desenvolvimento de Software, bem como projetos de Pesquisa na área de Geofísica. Finalizou o MBA em Gestão Empresarial na FGV-Rio. Atualmente é Arquitetura de Soluções Sênior da NVIDIA para América Latina."
         photo: "PedroMario.jpeg"
 
+  - id: MC5
+    date: "24/04 (8:30 - 11:30) — LAB2"
+    name: "Minicurso 1"
+    title: "Processamento e análise de Big Data para aplicação de algoritmos de Machine Learning através da plataforma HPCC Systems"
+    abstract: "Ao longo do minicurso os participantes terão a oportunidade de conhecer os conceitos essenciais de processamento e análise de volumes massivos de dados (Big Data), e o processo de desenvolvimento de um serviço de consulta através da utilização da plataforma open-source composta por um Cluster Computacional de Alto Desempenho (HPCC Systems), assim como a aplicação de algoritmos de Aprendizado de Máquina, e a possibilidade de aplicar os conhecimentos adquiridos em um ambiente de treinamento disponibilizado em sala de aula."
+    authors:
+      - name: "Alysson Oliveira"
+        bio: "Alysson Oliveira é formado em Engenharia de Computação pela USP e atual engenheiro de software na LexisNexis Risk. Sua principal atuação gira em torno do suporte e desenvolvimento de programas de treinamento para a plataforma HPCC Systems no Brasil, abrangendo o público acadêmico, pesquisadores e profissionais da área da computação e de dados. Também busca estabelecer parcerias com universidades a fim de oferecer aos alunos de graduação a oportunidade de trabalhar em projetos científicos."
+        photo: "alysson.jpeg"
+
 
 
 
