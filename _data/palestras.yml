@@ -1,6 +1,6 @@
 keynotes:
   - id: P1
-    date: "xx/04 (xx:xx - xx:xx) — Auditório"
+    date: "23/04 (16:30 - 17:25) — Auditório"
     name: "Palestra WIA"
     title: "Transformando a Cardiologia com Inteligência Artificial: Imagens, sinais, monitoramento remoto e integração de dados ômicos para modelos preditivos"
     abstract: "A aplicação de Inteligência Artificial (IA) na Cardiologia tem revolucionado o diagnóstico, prognóstico e monitoramento de doenças cardiovasculares, uma das principais causas de mortalidade global. Essa palestra abordará como técnicas avançadas de aprendizado profundo, modelos generativos e aprendizado auto-supervisionado vêm sendo aplicadas na análise de ECGs digitalizados, imagens médicas multimodais e dados fisiológicos contínuos para detecção de arritmias e predição de desfechos clínicos. Além disso, discutiremos desafios computacionais associados à fusão de dados heterogêneos, incluindo sinais biomédicos, exames de imagem e dados ômicos (genômica, proteômica, metabolômica), e como a computação de alto desempenho (HPC) e arquiteturas especializadas, como GPUs e aceleradores neuromórficos, podem viabilizar modelos preditivos de alta precisão em larga escala."
@@ -8,4 +8,14 @@ keynotes:
       name: "Marco Antonio Gutierrez"
       bio: "Graduado em Engenharia Elétrica (1985), com especialização em Ciências da Computação (1985) e doutorado em Engenharia Elétrica (1995), todos pela Universidade de São Paulo (USP). Foi pesquisador visitante no Image Science Institute, Utrecht University (1996), e no Image Processing and Informatics Lab, University of Southern California, Estados Unidos (2006-2007). É Diretor do Serviço de Informática e do Laboratório de Informática Biomédica do Instituto do Coraçãor HC-FMUSP, Professor Associado (Livre-docente) na Faculdade de Medicina da USP e Membro (2020) da International Academy of Health Sciences Informatics (IAHSI). Possui mais de 30 anos de experiência em Engenharia e Informática Biomédica, com foco em processamento de sinais biológicos e imagens médicas."
       photo: "marco_gutierrez.png"
+  
+  - id: P2
+    date: "23/04 (17:30 - 18:25) — Auditório"
+    name: "Palestra Acadêmica"
+    title: "O futuro da computação de alto desempenho é sustentável ou insustentável?"
+    abstract: "A crescente demanda por poder computacional tem levado a avanços significativos na computação de alto desempenho (HPC). No entanto, esse crescimento resulta em um aumento expressivo no consumo energético e na emissão de CO₂, tornando a sustentabilidade um desafio fundamental para o setor. O equilíbrio entre desempenho computacional e eficiência energética é uma questão crítica, especialmente diante da escalabilidade dos sistemas e da necessidade de otimização de recursos. Assim, esta palestra apresenta uma análise do cenário atual da sustentabilidade em HPC, abordando os principais desafios técnicos para a redução do consumo energético em centros de dados, bem como a necessidade de estratégias avançadas para refrigeração e gestão de recursos computacionais. Serão discutidas técnicas emergentes para otimização da eficiência computacional e mitigação do impacto ambiental, incluindo abordagens arquiteturais, algoritmos de gerenciamento dinâmico de energia e práticas de desenvolvimento voltadas para a redução do consumo de recursos."
+    speaker:
+      name: "Arthur Francisco Lorenzon"
+      bio: "Lorenzon é Doutor em Ciência da Computação pela Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, desde 2018. Atuou como pesquisador visitante em áreas correlatas em diversas instituições de ensino e pesquisa, incluindo Delft University of Technology, Oak Ridge National Laboratory e Barcelona Supercomputing Center. Sua tese de doutorado foi escolhida como a melhor tese na área de arquitetura de computadores e computação de alto desempenho no WSCAD-CTD, em 2018. Atualmente, integra o corpo docente do Instituto de Informática da UFRGS, orientando alunos de mestrado e doutorado no Programa de Pós-Graduação em Computação (PPGC). Desenvolve atividades de pesquisa na área de computação de alto desempenho, com foco no desenvolvimento de soluções para otimizar o uso dos recursos computacionais."
+      photo: "lorenzon.png"
   
