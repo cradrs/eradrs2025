@@ -50,7 +50,21 @@ tutorials:
         bio: "Alysson Oliveira é formado em Engenharia de Computação pela USP e atual engenheiro de software na LexisNexis Risk. Sua principal atuação gira em torno do suporte e desenvolvimento de programas de treinamento para a plataforma HPCC Systems no Brasil, abrangendo o público acadêmico, pesquisadores e profissionais da área da computação e de dados. Também busca estabelecer parcerias com universidades a fim de oferecer aos alunos de graduação a oportunidade de trabalhar em projetos científicos."
         photo: "alysson.jpeg"
 
-
+  - id: MC6
+    date: "25/04 (8:30 - 11:30) — LAB1"
+    name: "Minicurso 6"
+    title: "Programação Avançada de Múltiplas GPUs com OpenACC"
+    abstract: "Este minicurso tem como objetivo apresentar técnicas de programação paralela para processadores multinúcleo e aceleradores utilizando OpenACC usando cláusulas como, por exemplo, async e wait, com ênfase nos modelos de paralelismo em multi aceleradores. Serão abordadas as modificações necessárias no código-fonte para implementar esses modelos, e os resultados obtidos serão avaliados por meio de métricas de desempenho, como aceleração, eficiência e ocupação."
+    authors:
+      - name: "Calebe de Paula Bianchini"
+        bio: "Calebe de Paula Bianchini é formado em Ciência da Computação na UFSCar, onde também obteve o título de mestre. Finalizou seu doutorado em Engenharia da Computação pela POLI/USP em 2009. Somados, já são mais de 19 anos de experiência com Computação de Alto Desempenho, com participação em diversos projetos de pesquisa e desenvolvimento com Petrobras, Shell, Intel, CERN, dentre outros. Atualmente é professor e pesquisador na Universidade Presbiteriana Mackenzie e de Centro Universitário FEI. É um membro ativo na comunidade brasileira de Computação de Alto Desempenho, especialmente na organização de competições e desafios nesta área. É também Embaixador Universitário do Deep Learning Institute da NVIDIA, ministrando cursos relacionados à Computação de Alto Desempenho em GPUs NVidia."
+        photo: "calebe.jpeg"
+      - name: "Evaldo Bezerra da Costa"
+        bio: "Evaldo Bezerra da Costa é graduado em Engenharia Elétrica, ênfase em Telecomunicações pela Universidade Estácio de Sá (2010), com mestrado (2014) e doutorado (2022) em Informática pela Universidade Federal do Rio de Janeiro. Tem experiência na área de Ciência da Computação, atuando principalmente nos seguintes temas: programação paralela, computação de alto desempenho, inteligência artificial e bioinformática."
+        photo: "evaldoCosta.jpeg"
+      - name: "Gabriel Pereira da Silva"
+        bio: "Gabriel P. Silva tem doutorado em Engenharia de Sistemas e Computação pela Universidade Federal do Rio de Janeiro. Atualmente é Professor Titular do Instituto de Computação da UFRJ. Tem larga experiência na área de Ciência da Computação, com ênfase em Arquitetura de Sistemas de Computação, atuando principalmente nos seguintes temas: arquitetura de computadores, programação paralela, computação de alto desempenho e internet das coisas."
+        photo: "gabrielSilva.jpeg"
 
 
  
