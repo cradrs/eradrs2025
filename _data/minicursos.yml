@@ -1,7 +1,7 @@
 tutorials:
 
   - id: MC1
-    date: "23/04 (9:00 -11:30) — LAB1"
+    date: "23/04 (9:00 - 11:30) — LAB1"
     name: "Minicurso 3"
     title: "Programação de Alto Desempenho em GPUs com C++"
     abstract: "Este minicurso apresenta uma visão prática de como explorar o poder de processamento das GPUs na linguagem C++. Iniciaremos abordando o modelo de computação das GPUs, contrastando brevemente sua arquitetura com a das CPUs e destacando situações em que a aceleração via GPU faz mais sentido. Abordaremos conceitos fundamentais de hardware (Streaming Multiprocessors, warps/wavefronts) e do ecossistema de memórias (global, compartilhada, local e constante), além do fluxo básico de execução (Grids, Blocks e Threads). Na sequência, conheceremos as alternativas atuais de modelos de programação paralela em GPU disponíveis em C++, como Compute Shaders (GLSL, HLSL, Slang), CUDA, HIP (ROCm), OpenCL, OpenMP, OpenACC, SYCL e bibliotecas de alto nível (Thrust, ArrayFire, Kokkos, RAJA etc.). Também discutiremos as perspectivas de padronização do paralelismo no C++ – incluindo como essas tecnologias podem, eventualmente, convergir para um “padrão”. O foco principal recai sobre o modelo assíncrono e heterogêneo de execução do C++26, o stdexec, que possibilita organizar código paralelo e concorrente de forma estruturada e modular. Serão explicados os conceitos de Schedulers (para CPU, GPU única e múltiplas GPUs), bem como de Senders e a criação de pipelines de trabalho “preguiçosos” (lazy work pipelines) para controle de fluxo e encadeamento de tarefas de maneira clara e eficiente. Durante o minicurso, os participantes terão uma visão prática do ambiente de desenvolvimento, cobrindo o uso do Nvidia HPC SDK, containers Docker com acesso a GPUs e a configuração de um projeto com CMake e stdexec. Também serão demonstradas técnicas básicas de perfilamento de código para identificar gargalos e otimizar o desempenho. Ao término, os participantes estarão aptos a criar aplicações em C++ que aproveitem a capacidade de processamento das GPUs, compreendendo desde conceitos fundamentais até o uso de ferramentas de programação paralela."
@@ -11,7 +11,7 @@ tutorials:
         photo: "Branco.png"
 
  - id: MC2
-    date: "23/04 (9:00 -11:30) — LAB2"
+    date: "23/04 (9:00 - 11:30) — LAB2"
     name: "Minicurso 2"
     title: "Diretivas Paralelas de Programação"
     abstract: "O minicurso tem como objetivo abordar a paralelização de aplicações usando diretivas das interfaces de programação paralela OpenMP e OpenACC. O uso de diretivas tem sido a forma mais fácil de acelerar uma aplicação tanto em CPU como em GPU, sem a necessidade de conhecimentos profundos a respeito de programação paralela. Através de exemplos práticos de aplicações consideradas simples, mas não as triviais vistas geralmente em cursos introdutórios, almeja-se apresentar os principais recursos para a execução concorrente de tarefas e de laços paralelos. As interfaces paralelas selecionadas também permitem o direcionamento da arquitetura alvo, o que posibilita o uso de uma mesma interface tanto para CPU como para GPU. "
@@ -22,7 +22,7 @@ tutorials:
 
 
   - id: MC3
-    date: "24/04 (9:00 -11:30) — Florestan 3"
+    date: "24/04 (9:00 - 11:30) — Florestan 3"
     name: "Minicurso 7"
     title: "Armazenamento – Melhores Práticas – Entendendo do básico ao avançado"
     abstract: "O minicurso de armazenamento abordará as principais formas de conexões existentes, tais como SATA, SCSI, SAS, iSCSI, Fibre Channel, entre outras. Os participantes poderão compreender as vantagens e desvantagens de cada uma dessas opções, bem como entender a importância da escolha correta na hora de definir a solução de armazenamento adequada para cada situação, desde o seu notebook até um sistema de storage distribuido. Serão discutidos os diversos tipos de dispositivos de armazenamento existentes no mercado, tais como unidades de disco rígido (HDD), unidades de estado sólido (SSD), unidades de fita (tape drive), cartões de memória, entre outros."
@@ -33,7 +33,7 @@ tutorials:
         
 
  - id: MC4
-    date: "24/04 (9:00 -11:30) — LAB1"
+    date: "24/04 (9:00 - 11:30) — LAB1"
     name: "Minicurso 5"
     title: "Multi-GPU Multi-Node Programming"
     abstract: "Scaling applications to multiple GPUs across multiple nodes requires one to be adept at not just the programming models and optimization techniques, but also at performing root-cause analysis using in-depth profiling to identify and minimize bottlenecks. In this bootcamp, participants will learn to improve the performance of an application step-by-step, taking cues from profilers along the way. Moreover, understanding of the underlying technologies and communication topology will help us utilize high-performance NVIDIA libraries to extract more performance out of the system."
@@ -44,18 +44,18 @@ tutorials:
 
 
   - id: MC5
-    date: "24/04 (9:00 -11:30) — LAB2"
+    date: "24/04 (9:00 - 11:30) — LAB2"
     name: "Minicurso 1"
     title: "Processamento e análise de Big Data para aplicação de algoritmos de Machine Learning através da plataforma HPCC Systems"
     abstract: "Ao longo do minicurso os participantes terão a oportunidade de conhecer os conceitos essenciais de processamento e análise de volumes massivos de dados (Big Data), e o processo de desenvolvimento de um serviço de consulta através da utilização da plataforma open-source composta por um Cluster Computacional de Alto Desempenho (HPCC Systems), assim como a aplicação de algoritmos de Aprendizado de Máquina, e a possibilidade de aplicar os conhecimentos adquiridos em um ambiente de treinamento disponibilizado em sala de aula."
     authors:
       - name: "Alysson Oliveira"
         bio: "Alysson Oliveira é formado em Engenharia de Computação pela USP e atual engenheiro de software na LexisNexis Risk. Sua principal atuação gira em torno do suporte e desenvolvimento de programas de treinamento para a plataforma HPCC Systems no Brasil, abrangendo o público acadêmico, pesquisadores e profissionais da área da computação e de dados. Também busca estabelecer parcerias com universidades a fim de oferecer aos alunos de graduação a oportunidade de trabalhar em projetos científicos."
-        photo: "Branco.png"
+        photo: "alysson.jpeg"
 
 
   - id: MC6
-    date: "25/04 (9:00 -11:30) — LAB1"
+    date: "25/04 (9:00 - 11:30) — LAB1"
     name: "Minicurso 6"
     title: "Programação Avançada de Múltiplas GPUs com OpenACC"
     abstract: "Este minicurso tem como objetivo apresentar técnicas de programação paralela para processadores multinúcleo e aceleradores utilizando OpenACC usando cláusulas como, por exemplo, async e wait, com ênfase nos modelos de paralelismo em multi aceleradores. Serão abordadas as modificações necessárias no código-fonte para implementar esses modelos, e os resultados obtidos serão avaliados por meio de métricas de desempenho, como aceleração, eficiência e ocupação."
@@ -72,7 +72,7 @@ tutorials:
 
 
   - id: MC7
-    date: "25/04 (9:00 -11:30) — LAB2"
+    date: "25/04 (9:00 - 11:30) — LAB2"
     name: "Minicurso 4"
     title: "Maximizando o Potencial da IA Generativa com Computação de Alto Desempenho"
     abstract: "Modelos de Inteligência Artificial Generativa, como ChatGPT da OpenAI, Llama da Meta e Stable Diffusion, estão revolucionando a forma como interagimos com a tecnologia. No entanto, essas aplicações demandam alto desempenho computacional para tarefas como inferência e fine-tuning. Este minicurso apresenta uma abordagem prática e técnica para otimizar o desempenho da IA Generativa em ambientes de computação de alto desempenho (HPC), explorando comparações diretas do desempenho entre CPUs, GPUs e TPUs. Os participantes aprenderão a configurar ambientes no Google Colab, utilizar ferramentas como PyTorch, TensorFlow e Hugging Face, e realizar benchmarks práticos para compreender as variações de desempenho entre diferentes arquiteturas de computadores. O minicurso também abordará a quantização para otimização de memória e estratégias para fine-tuning de modelos menores e acessíveis em GPUs e TPUs de baixa capacidade. Este minicurso é ideal para profissionais, acadêmicos e estudantes interessados em explorar o impacto da computação de alto desempenho na prática da IA Generativa, com foco em aplicações reais, como geradores de texto e imagens, modelos de linguagem para chatbots e integração de modelos com aplicações reais."
