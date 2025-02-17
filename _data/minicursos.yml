@@ -20,6 +20,16 @@ tutorials:
         bio: "Claudio Schepke tem experiência no ensino e no desenvolvimento de programas paralelos e está sempre disposto a colaborar com a ERAD/RS, especialmente sob forma de minicursos. "
         photo: "Schepke.jpg" 
 
+  - id: MC3
+    date: "24/04 (8:30 - 11:30) — Florestan 3"
+    name: "Minicurso 3"
+    title: "Armazenamento – Melhores Práticas – Entendendo do básico ao avançado"
+    abstract: "O minicurso de armazenamento abordará as principais formas de conexões existentes, tais como SATA, SCSI, SAS, iSCSI, Fibre Channel, entre outras. Os participantes poderão compreender as vantagens e desvantagens de cada uma dessas opções, bem como entender a importância da escolha correta na hora de definir a solução de armazenamento adequada para cada situação, desde o seu notebook até um sistema de storage distribuido. Serão discutidos os diversos tipos de dispositivos de armazenamento existentes no mercado, tais como unidades de disco rígido (HDD), unidades de estado sólido (SSD), unidades de fita (tape drive), cartões de memória, entre outros."
+    authors:
+      - name: "Guilherme Friol"
+        bio: "Guilherme Friol é especialista em computação com anos de experiência em ambientes computacionais de alta demanda, virtualização e HPC. Atua como consultor em arquitetura e otimização de sistemas de alto desempenho. Desenvolveu projetos relevantes junto a grandes instituições de pesquisa e notórios nomes da computação nacional em machine learning e redes neurais. Entre os projetos estão: Predição de Inibidores de Protease de Cisteína para Agentes Tripanocidas e Câncer (USP); Simulação de controle de veículo espacial e orientação de órbita (LAC-INPE); Pesquisa sobre plasmas astrofísicos e turbulências espaciais (ITA); Pesquisa em Astrofísica e física molecular (UNIVAP), entre outros."
+        photo: "Guilherme_Friol.png" 
+
 
 
 
