@@ -2,13 +2,23 @@ tutorials:
 
   - id: MC1
     date: "23/04 (8:30 - 11:30) — LAB1"
-    name: "Minicurso 3"
+    name: "Minicurso 1"
     title: "Programação de Alto Desempenho em GPUs com C++"
     abstract: "Este minicurso apresenta uma visão prática de como explorar o poder de processamento das GPUs na linguagem C++. Iniciaremos abordando o modelo de computação das GPUs, contrastando brevemente sua arquitetura com a das CPUs e destacando situações em que a aceleração via GPU faz mais sentido. Abordaremos conceitos fundamentais de hardware (Streaming Multiprocessors, warps/wavefronts) e do ecossistema de memórias (global, compartilhada, local e constante), além do fluxo básico de execução (Grids, Blocks e Threads). Na sequência, conheceremos as alternativas atuais de modelos de programação paralela em GPU disponíveis em C++, como Compute Shaders (GLSL, HLSL, Slang), CUDA, HIP (ROCm), OpenCL, OpenMP, OpenACC, SYCL e bibliotecas de alto nível (Thrust, ArrayFire, Kokkos, RAJA etc.). Também discutiremos as perspectivas de padronização do paralelismo no C++ – incluindo como essas tecnologias podem, eventualmente, convergir para um “padrão”. O foco principal recai sobre o modelo assíncrono e heterogêneo de execução do C++26, o stdexec, que possibilita organizar código paralelo e concorrente de forma estruturada e modular. Serão explicados os conceitos de Schedulers (para CPU, GPU única e múltiplas GPUs), bem como de Senders e a criação de pipelines de trabalho “preguiçosos” (lazy work pipelines) para controle de fluxo e encadeamento de tarefas de maneira clara e eficiente. Durante o minicurso, os participantes terão uma visão prática do ambiente de desenvolvimento, cobrindo o uso do Nvidia HPC SDK, containers Docker com acesso a GPUs e a configuração de um projeto com CMake e stdexec. Também serão demonstradas técnicas básicas de perfilamento de código para identificar gargalos e otimizar o desempenho. Ao término, os participantes estarão aptos a criar aplicações em C++ que aproveitem a capacidade de processamento das GPUs, compreendendo desde conceitos fundamentais até o uso de ferramentas de programação paralela."
     authors:
       - name: "Pablo Hugen"
         bio: "Formado em Ciência da Computação pela Universidade Estadual do Oeste do Paraná (2024), atua profissionalmente como Programador de Sistemas. Entusiasta de programação de baixo nível, computação paralela/distribuída, FOSS e Data Oriented Design."
         photo: "Branco.png"
+
+  - id: MC2
+    date: "23/04 (8:30 - 11:30) — LAB2"
+    name: "Minicurso 2"
+    title: "Diretivas Paralelas de Programação"
+    abstract: "O minicurso tem como objetivo abordar a paralelização de aplicações usando diretivas das interfaces de programação paralela OpenMP e OpenACC. O uso de diretivas tem sido a forma mais fácil de acelerar uma aplicação tanto em CPU como em GPU, sem a necessidade de conhecimentos profundos a respeito de programação paralela. Através de exemplos práticos de aplicações consideradas simples, mas não as triviais vistas geralmente em cursos introdutórios, almeja-se apresentar os principais recursos para a execução concorrente de tarefas e de laços paralelos. As interfaces paralelas selecionadas também permitem o direcionamento da arquitetura alvo, o que posibilita o uso de uma mesma interface tanto para CPU como para GPU. "
+    authors:
+      - name: "Claudio Schepke"
+        bio: "Claudio Schepke tem experiência no ensino e no desenvolvimento de programas paralelos e está sempre disposto a colaborar com a ERAD/RS, especialmente sob forma de minicursos. "
+        photo: "Schepke.jpg" 
 
 
 
