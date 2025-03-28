@@ -18,7 +18,10 @@ tutorials:
     authors:
       - name: "Claudio Schepke"
         bio: "Claudio Schepke tem experiência no ensino e no desenvolvimento de programas paralelos e está sempre disposto a colaborar com a ERAD/RS, especialmente sob forma de minicursos. "
-        photo: "Schepke.jpg" 
+        photo: "Schepke.jpg"
+      - name: "Vinicius Garcia Pinto"
+        bio: "Doutor em Computação pelo Programa de Pós-Graduação em Computação da UFRGS em co-tutela com a Université Grenoble Alpes / França. Mestre em Computação pelo Programa de Pós-Graduação em Computação da Universidade Federal do Rio Grande do Sul. Bacharel em Ciência da Computação pela Universidade Federal de Santa Maria. Foi professor da Faculdade São Francisco de Assis, da Universidade de Caxias do Sul e professor substituto da Universidade Federal do Rio Grande do Sul onde também realizou estágio de pós-doutorado. Atualmente é professor do Centro de Ciências Computacionais da Universidade Federal do Rio Grande."
+        photo: "vinicius.jpg"
 
   - id: MC3
     date: "24/04 (8:30 - 11:30) — Florestan 3"
