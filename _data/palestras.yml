@@ -28,3 +28,14 @@ keynotes:
       name: "Alysson Oliveira"
       bio: "Alysson Oliveira, engenheiro de software da LexisNexis Risk Solutions. Sua principal atuação gira em torno do suporte e desenvolvimento de programas de treinamento para a plataforma HPCC Systems no Brasil, abrangendo o público acadêmico, pesquisadores e profissionais da área da computação e de dados. Também buscar estabelecer parcerias com universidades a fim de oferecer aos alunos de graduação a oportunidade de trabalhar em projetos científicos, assim como oferecer mentoria para alunos de graduação e pós graduação."
       photo: "alysson.jpeg"
+
+  - id: P7
+    date: "25/04 (11:30 - 12:00) — Auditório"
+    name: "Palestra Industrial 5"
+    title: "HPE HPC-AI Supercomputing "
+    abstract: "Vamos explorar a liderança mundial da HPE em Computação de Alto Desempenho e Inteligência Artificial, reforçando o posicionamento da HPE no Top500 List, apresentar os recentes casos de sucesso com o Supercomputadores HPE CRAY EX, apresentar o portfólio de HPC/AI e as opções de refrigeração para cada tipo de infraestrutura."
+    speaker:
+      name: "Mônica A. Costa"
+      bio: "Mônica Costa é bacharel em Engenharia Eletrônica, com Pós-graduação em Estratégia e Gestão Empresarial e Pós-graduação em Transformação Digital pela PUC-Rio, possui mais de 30 anos de experiência em Computação de Alto Desempenho, iniciando sua carreira na Control Data Corporation (CDC) como Engenheira de Suporte de mainframes CDC. Na década de 1990 a Silicon Graphics International (SGI) se estabeleceu no Brasil e incorporou as atividades da CDC, que já utilizava workstations SGI como console dos mainframes, e desde então Mônica Costa passou a integrar o time de Engenheiros de Suporte/Vendas da SGI, por onde permaneceu por 25 anos. Com a incorporação da SGI pela Hewlett Packard Enterprise (HPE) em 2017 assumiu a posição de Especialista em Computação de Alto Desempenho e Inteligência Artificial, sendo responsável por HPC/AI para a América Latina."
+      photo: "MonicaCosta.jpg"
+
