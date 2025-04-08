@@ -1,6 +1,7 @@
 sessions:
   - id: "WHPC1"
     title: "Painel: Desafios na jornada acadêmica e na carreira de computação: como conciliar a vida pessoal e a profissional?"
+    date: "24/04 (14:00 - 16:00) — Auditório"
     description: "O WHPC/ERAD-RS 2025 é um fórum regional onde mulheres atuantes na área de HPC e áreas afins compartilham seus desafios na jornada acadêmica e na carreira de computação. Nesta edição, vamos abordar as dificuldades de conciliar a vida pessoal e a profissional na computação, área que é tão competitiva e que sempre está repleta de novidades. Se você é estudante de algum curso de Computação, participe do fórum e venha trocar experiências!"
     speakers:
       - name: "Márcia Pasin (Moderadora)"
