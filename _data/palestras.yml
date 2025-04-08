@@ -29,6 +29,16 @@ keynotes:
       bio: "Engenheiro de software da LexisNexis Risk Solutions. Sua principal atuação gira em torno do suporte e desenvolvimento de programas de treinamento para a plataforma HPCC Systems no Brasil, abrangendo o público acadêmico, pesquisadores e profissionais da área da computação e de dados. Também buscar estabelecer parcerias com universidades a fim de oferecer aos alunos de graduação a oportunidade de trabalhar em projetos científicos, assim como oferecer mentoria para alunos de graduação e pós graduação."
       photo: "alysson.jpeg"
 
+  - id: P4
+    date: "23/04 (12:00 - 12:30) — Auditório"
+    name: "Palestra Industrial 2"
+    title: "Scherm"
+    abstract: "A definir."
+    speaker:
+      name: "A definir"
+      bio: "-"
+      photo: "Branco.png"
+
   - id: P5
     date: "24/04 (11:30 - 12:30) — Auditório"
     name: "Palestra Industrial 3"
@@ -38,6 +48,16 @@ keynotes:
       name: "Guilherme Friol"
       bio: "Especialista em computação com anos de experiência em ambientes computacionais de alta demanda, virtualização e HPC. Atua como consultor em arquitetura e otimização de sistemas de alto desempenho. Desenvolveu projetos relevantes junto a grandes instituições de pesquisa e notórios nomes da computação nacional em machine learning e redes neurais. Entre os projetos estão: Predição de Inibidores de Protease de Cisteína para Agentes Tripanocidas e Câncer (USP); Simulação de controle de veículo espacial e orientação de órbita (LAC-INPE); Pesquisa sobre plasmas astrofísicos e turbulências espaciais (ITA); Pesquisa em Astrofísica e física molecular (UNIVAP), entre outros. "
       photo: "Guilherme_Friol.png"
+
+  - id: P6
+    date: "24/04 (18:30 - 19:00) — Auditório"
+    name: "Palestra Industrial 4"
+    title: "SDC"
+    abstract: "A definir."
+    speaker:
+      name: "A definir"
+      bio: "-"
+      photo: "Branco.png" 
 
   - id: P7
     date: "25/04 (11:30 - 12:00) — Auditório"
