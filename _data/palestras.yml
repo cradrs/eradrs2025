@@ -29,6 +29,16 @@ keynotes:
       bio: "Alysson Oliveira, engenheiro de software da LexisNexis Risk Solutions. Sua principal atuação gira em torno do suporte e desenvolvimento de programas de treinamento para a plataforma HPCC Systems no Brasil, abrangendo o público acadêmico, pesquisadores e profissionais da área da computação e de dados. Também buscar estabelecer parcerias com universidades a fim de oferecer aos alunos de graduação a oportunidade de trabalhar em projetos científicos, assim como oferecer mentoria para alunos de graduação e pós graduação."
       photo: "alysson.jpeg"
 
+  - id: P5
+    date: "24/04 (11:30 - 12:30) — Auditório"
+    name: "Palestra Industrial 3"
+    title: "HPC sem MiMiMi - Nos Bastidores do HPC: Desafios e Realidades na Administração de Clusters de Alto Desempenho"
+    abstract: "A computação de alto desempenho (HPC) é frequentemente apresentada através de seus resultados impressionantes e casos de sucesso. No entanto, por trás desses números existe uma complexa realidade operacional que raramente é discutida. Esta palestra mergulha no dia a dia da administração de clusters HPC, revelando os desafios práticos e as situações reais que administradores enfrentam. Abordaremos aspectos críticos como o gerenciamento de recursos em ambientes multiusuário, onde demandas conflitantes e prioridades diversas precisam ser constantemente equilibradas. Discutiremos os desafios de manutenção da infraestrutura, desde a gestão térmica e energética até a resolução de problemas de hardware.."
+    speaker:
+      name: "Guilherme Friol"
+      bio: "Guilherme Friol é especialista em computação com anos de experiência em ambientes computacionais de alta demanda, virtualização e HPC. Atua como consultor em arquitetura e otimização de sistemas de alto desempenho. Desenvolveu projetos relevantes junto a grandes instituições de pesquisa e notórios nomes da computação nacional em machine learning e redes neurais. Entre os projetos estão: Predição de Inibidores de Protease de Cisteína para Agentes Tripanocidas e Câncer (USP); Simulação de controle de veículo espacial e orientação de órbita (LAC-INPE); Pesquisa sobre plasmas astrofísicos e turbulências espaciais (ITA); Pesquisa em Astrofísica e física molecular (UNIVAP), entre outros. "
+      photo: "Guilherme_Friol.png"
+
   - id: P7
     date: "25/04 (11:30 - 12:00) — Auditório"
     name: "Palestra Industrial 5"
