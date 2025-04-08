@@ -1,7 +1,7 @@
 sessions:
   - id: "WHPC1"
-    title: "Painel: Influência Social x Digital"
-    description: "O painel aborda projetos e ações relacionadas as atividades de inclusão e permanência de meninas e mulheres na computação. Uma discussão sobre como a influência social (comportamento, crenças, atitudes, opiniões ou sentimentos a partir da interação social) e digital (micro e nanos influenciadores) podem auxiliar neste processo de busca pela equidade de gênero na tecnologia, fundamental para uma sociedade mais justa."
+    title: "Painel: Desafios na jornada acadêmica e na carreira de computação: como conciliar a vida pessoal e a profissional?"
+    description: "O WHPC/ERAD-RS 2025 é um fórum regional onde mulheres atuantes na área de HPC e áreas afins compartilham seus desafios na jornada acadêmica e na carreira de computação. Nesta edição, vamos abordar as dificuldades de conciliar a vida pessoal e a profissional na computação, área que é tão competitiva e que sempre está repleta de novidades. Se você é estudante de algum curso de Computação, participe do fórum e venha trocar experiências!"
     speakers:
       - name: "Rayse Kiane de Souza"
         affil: "Byteful Leadies (SENAI)"
