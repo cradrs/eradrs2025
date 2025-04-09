@@ -87,18 +87,18 @@ ic-track:
         pdf: "xxx"
         authors:
           - name: "Christofer Daniel Rodrigues Santos"
-            institution: "IFPR Campus Assis Chateaubriand"
+            institution: "IFPR - Assis Chateaubriand"
           - name: "João Fabrício Filho"
-            institution: "UTFPR Campo Mourão"
+            institution: "UTFPR - Campo Mourão"
           - name: "Rogério Aparecido Gonçalves"
             institution: "UTFPR"
       - title: "-Avaliação de alternativas para parametrização de simuladores: Um estudo de caso aplicado ao SiNUCA3"
         pdf: "xxx"
         authors:
           - name: "Gabriel de Brito"
-            institution: "UFRGS"
+            institution: "UFPR"
           - name: "Marco A. Zanata Alves"
-            institution: "UFRGS"
+            institution: "UFPR"
       - title: "-Simulador da arquitetura Neander em uma abordagem Web"
         pdf: "xxx"
         authors:
@@ -124,7 +124,7 @@ ic-track:
         pdf: "xxx"
         authors:
           - name: "Deolinda Salomão"
-            institution: "Universidade Federal de Pelotas UFPel"
+            institution: "UFPEL"
           - name: "Rafael Burlamaqui Amaral"
             institution: "UFPEL"  
           - name: "Gerson Geraldo H. Cavalheiro"
@@ -190,7 +190,7 @@ ic-track:
         pdf: "xxx"
         authors:
           - name: "Thiago Thomas"
-            institution: "Universidade do Vale do Rio dos Sinos (UNISINOS)"
+            institution: "UNISINOS"
           - name: "Rodrigo da Rosa Righi"
             institution: "UNISINOS"
       - title: "-Predição Inteligente na Indústria com Processamento de Borda"
@@ -243,7 +243,7 @@ ic-track:
         pdf: "xxx"
         authors:
           - name: "Rodrigo Machado"
-            institution: "PPGC/UFRGS"
+            institution: "UFRGS"
           - name: "Arthur Francisco Lorenzon"
             institution: "UFRGS"
           - name: "Philippe Olivier Alexandre Navaux"
@@ -348,7 +348,7 @@ ic-track:
         pdf: "xxx"
         authors:
           - name: "Enzo Belló Boscatto"
-            institution: "UDESC-CCT"
+            institution: "UDESC"
           - name: "Anderson H. S. Marcondes"
             institution: "UDESC"
           - name: "Guilherme P. Koslovski"
@@ -376,11 +376,11 @@ ic-track:
         pdf: "xxx"
         authors:
           - name: "Artur Soda"
-            institution: "Federal University of Santa Catarina"
+            institution: "UFSC"
           - name: "Vanderlei Pereira Filho"
-            institution: "Federal University of Santa Catarina"
+            institution: "UFSC"
           - name: "Márcio Castro"
-            institution: "Federal University of Santa Catarina"
+            institution: "UFSC"
       - title: "-Interactive Interface for StarVZ Plot Visualization"
         pdf: "xxx"
         authors:
