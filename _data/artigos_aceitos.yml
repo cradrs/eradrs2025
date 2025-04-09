@@ -23,6 +23,13 @@ ic-track:
             institution: "UDESC"
           - name: "Bianca de Oliveira Durgante"
             institution: "UDESC"
+      - title: "Proposta de Comparação da Eficiência e Escalabilidade de Bibliotecas Python para Manipulação e Análise de Dados"
+        pdf: "xxx"
+        authors:
+          - name: "Gabriel Ranulfo Branquinho Cirillo"
+            institution: "UNIOESTE"
+          - name: "Guilherme Galante"
+            institution: "UNIOESTE"
       - title: "Proposal for comparison and measurement of parallel and distributed file systems for training ML models in the healthcare"
         pdf: "xxx"
         authors:
@@ -43,13 +50,6 @@ ic-track:
             institution: "UFRGS"
           - name: "Philippe Olivier Alexandre Navaux"
             institution: "UFRGS"
-      - title: "Proposta de Comparação da Eficiência e Escalabilidade de Bibliotecas Python para Manipulação e Análise de Dados"
-        pdf: "xxx"
-        authors:
-          - name: "Gabriel Ranulfo Branquinho Cirillo"
-            institution: "UNIOESTE"
-          - name: "Guilherme Galante"
-            institution: "UNIOESTE"
       - title: "Análise comparativa sobre atividades de Red Team de LLMs com LLMs"
         pdf: "xxx"
         authors:
@@ -113,13 +113,6 @@ ic-track:
             institution: "UFPEL"
           - name: "Gerson Geraldo H. Cavalheiro"
             institution: "UFPEL"
-      - title: "Exploração de Elasticidade em Contêineres Docker"
-        pdf: "xxx"
-        authors:
-          - name: "Gustavo Chiossi"
-            institution: "UNIOESTE"
-          - name: "Guilherme Galante"
-            institution: "UNIOESTE"   
       - title: "Utilizando o OpenFaaS em plataformas embarcadas e server"
         pdf: "xxx"
         authors:
@@ -136,6 +129,13 @@ ic-track:
             institution: "UFPEL"  
           - name: "Gerson Geraldo H. Cavalheiro"
             institution: "UFPEL"
+       - title: "Exploração de Elasticidade em Contêineres Docker"
+        pdf: "xxx"
+        authors:
+          - name: "Gustavo Chiossi"
+            institution: "UNIOESTE"
+          - name: "Guilherme Galante"
+            institution: "UNIOESTE"   
 
   - id: "IC3"
     title: "Computação de borda e IoT"
@@ -323,7 +323,7 @@ ic-track:
         pdf: "xxx"
         authors:
           - name: "Mateus Santos"
-            institution: "UNIOSETE"
+            institution: "UNIOESTE"
           - name: "Guilherme Galante"
             institution: "UNIOESTE"
       - title: "Ordenação distribuída de pares chave-valor utilizando MPI"
