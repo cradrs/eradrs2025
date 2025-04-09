@@ -35,8 +35,8 @@ keynotes:
     title: "HPC & AI tendências para P&D"
     abstract: "A palestra “HPC & AI: Tendências para P&D” aborda como as tecnologias de Computação de Alto Desempenho (HPC) e Inteligência Artificial (AI) estão transformando a pesquisa e desenvolvimento em diversos setores. Serão discutidas as principais tendências, aplicações práticas e os caminhos para instituições e empresas se prepararem para esse novo cenário tecnológico."
     speaker:
-      name: "Paulo Fonseca"
-      bio: " - Formado em Análise de Sistemas e com mais de 10 anos de experiência no mercado de HPC para a academia, colaborou e colabora com grande parte da implementação de clusters em diversas universidades e centros de pesquisa."
+      name: "Emerson Fusada"
+      bio: " - "
       photo: "Branco.png"
 
   - id: P5
@@ -52,12 +52,12 @@ keynotes:
   - id: P6
     date: "24/04 (18:30 - 19:00) — Auditório"
     name: "Palestra Industrial 4"
-    title: "SDC"
-    abstract: "A definir."
+    title: "SDC + Intel: Potência em HPC para desafios reais"
+    abstract: "Nesta palestra, a SDC apresenta, em parceria com a Intel®, como soluções de hardware de alto desempenho estão sendo aplicadas a desafios reais em HPC (High Performance Computing). Serão abordados conceitos de arquiteturas escaláveis, uso de processadores Intel Xeon® e integração com tecnologias emergentes. Também serão compartilhadas experiências da SDC em projetos no Brasil, demonstrando como o mercado e a área de pesquisa podem se conectar com esse ecossistema de inovação e transformação digital."
     speaker:
-      name: "A definir"
-      bio: "-"
-      photo: "Branco.png" 
+      name: "Ricardo Marchioni"
+      bio: "- Profissional com sólida atuação no setor de tecnologia, integrando áreas Comercial Técnica e de Produtos. Experiência em soluções de alto desempenho como automação, mini PCs, servidores e Storages. Participação em projetos, integração de tecnologias e desenvolvimento de negócios B2B. Perfil inovador, com foco em transformação digital e visão estratégica – alinhado ao ecossistema tecnológico promovido pela SDC em parceria com Intel®, Supermicro, Toshiba e outras líderes globais."
+      photo: "ricardo_sdc.jpeg" 
 
   - id: P7
     date: "25/04 (11:30 - 12:00) — Auditório"
