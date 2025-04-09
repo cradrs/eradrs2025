@@ -129,14 +129,14 @@ ic-track:
             institution: "UFPEL"  
           - name: "Gerson Geraldo H. Cavalheiro"
             institution: "UFPEL"
-       - title: "-Exploração de Elasticidade em Contêineres Docker"
+      - title: "-Exploração de Elasticidade em Contêineres Docker"
         pdf: "xxx"
         authors:
           - name: "Gustavo Chiossi"
             institution: "UNIOESTE"
           - name: "Guilherme Galante"
-            institution: "UNIOESTE"   
-
+            institution: "UNIOESTE"  
+            
   - id: "IC3"
     title: "Computação de borda e IoT"
     date: "23/04"
