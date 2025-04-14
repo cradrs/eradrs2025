@@ -5,7 +5,7 @@ ic-track:
     start_time: "14:00"
     end_time: "16:00"
     chair:
-      name: "a definir"
+      name: "Matheus Serpa"
     room: "Auditório"
     papers:
       - title: "-Instrumentação das Técnicas Árvore de Decisão e KerasTuner para Autoajuste de Redes Neurais Recorrentes GRU na Perspectiva de Computação Sustentável"
@@ -289,7 +289,7 @@ ic-track:
     start_time: "14:00"
     end_time: "16:00"
     chair:
-      name: "a definir"
+      name: "Guilherme Koslovski"
     room: "Florestan 3"
     papers:
       - title: "-Evaluating Federated Learning Scenarios: Impact of Basic Parameters and Realistic Communication in Testbeds"
@@ -360,7 +360,7 @@ ic-track:
     start_time: "08:00"
     end_time: "10:00"
     chair:
-      name: "a definir"
+      name: "Lucas Schnorr"
     room: "Auditório"
     papers:
       - title: "-Comparando o Desempenho da NPU Intel AI Boost com uma CPU de Proposito Geral"
