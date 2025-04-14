@@ -223,6 +223,13 @@ ic-track:
       name: "a definir"
     room: "Florestan 1"
     papers:
+      - title: "-Multiparticionamento de Dados em GPU"
+        pdf: "xxx"
+        authors:
+          - name: "Michel Cordeiro"
+            institution: "UFPR"
+          - name: "Wagner Machado Nunan Zola"
+            institution: "UFPR"
       - title: "-Proposta de uma suíte de benchmarks para avaliar o paralelismo de stream em GPUs"
         pdf: "xxx"
         authors:
@@ -255,13 +262,6 @@ ic-track:
             institution: "PUCRS"
           - name: "Dalvan Griebler"
             institution: "PUCRS"
-      - title: "-Multiparticionamento de Dados em GPU"
-        pdf: "xxx"
-        authors:
-          - name: "Michel Cordeiro"
-            institution: "UFPR"
-          - name: "Wagner Machado Nunan Zola"
-            institution: "UFPR"
       - title: "-Explorando Oportunidades para Aceleração de Solvers OpenFOAM Utilizando GPU"
         pdf: "xxx"
         authors:
@@ -326,15 +326,6 @@ ic-track:
             institution: "UNIOESTE"
           - name: "Guilherme Galante"
             institution: "UNIOESTE"
-      - title: "-Ordenação distribuída de pares chave-valor utilizando MPI"
-        pdf: "xxx"
-        authors:
-          - name: "Rodrigo Morante Blanco"
-            institution: "UFPR"
-          - name: "Michel Cordeiro"
-            institution: "UFPR"
-          - name: "Wagner Machado Nunan Zola"
-            institution: "UFPR"
       - title: "-Extendendo o RustStreamBench com Renoir e novos Benchmarks"
         pdf: "xxx"
         authors:
@@ -353,6 +344,15 @@ ic-track:
             institution: "UDESC"
           - name: "Guilherme P. Koslovski"
             institution: "UDESC"
+      - title: "-Ordenação distribuída de pares chave-valor utilizando MPI"
+        pdf: "xxx"
+        authors:
+          - name: "Rodrigo Morante Blanco"
+            institution: "UFPR"
+          - name: "Michel Cordeiro"
+            institution: "UFPR"
+          - name: "Wagner Machado Nunan Zola"
+            institution: "UFPR"
 
   - id: "IC6"
     title: "Análise de desempenho"
