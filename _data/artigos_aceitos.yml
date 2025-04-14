@@ -66,7 +66,7 @@ ic-track:
             institution: "UDESC"
           - name: "Guilherme P. Koslovski"
             institution: "UDESC"
-      - title: "-Investigando o Uso de Modelos de Linguagem de Grande Escala para o Escalonamento de Tarefas"
+      - title: "-Uma Comparação entre Escalonadores de Tarefas baseados em Aprendizado de Máquina"
         pdf: "xxx"
         authors:
           - name: "Claudinei Cabral Junior"
