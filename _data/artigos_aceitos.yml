@@ -80,7 +80,7 @@ ic-track:
     start_time: "14:00"
     end_time: "16:00"
     chair:
-      name: "a definir"
+      name: "Vinicius Garcia Pinto"
     room: "Florestan 1"
     papers:
       - title: "-Aperture - Computer Architecture Made Visual"
@@ -143,7 +143,7 @@ ic-track:
     start_time: "14:00"
     end_time: "16:30"
     chair:
-      name: "a definir"
+      name: "Marcia Pasin"
     room: "Florestan 3"
     papers:
       - title: "-Agricultura de Precisão para Pequenos e Médios Agricultores"
@@ -220,7 +220,7 @@ ic-track:
     start_time: "14:00"
     end_time: "16:00"
     chair:
-      name: "a definir"
+      name: "Rodrigo Righi"
     room: "Florestan 1"
     papers:
       - title: "-Multiparticionamento de Dados em GPU"
@@ -416,7 +416,7 @@ ic-track:
     start_time: "10:30"
     end_time: "11:30"
     chair:
-      name: "a definir"
+      name: "Márcio Castro"
     room: "Auditório"
     papers:
       - title: "-A Proposal for a Distributed Performance Analysis Tool for a Task-based Parallelism Framework"
@@ -476,7 +476,7 @@ ic-track:
     start_time: "08:00"
     end_time: "10:00"
     chair:
-      name: "a definir"
+      name: "Philippe Olivier Alexandre Navaux"
     room: "Florestan 1"
     papers:
       - title: "-Novos benchmarks para aplicações de streaming em Rust"
