@@ -9,7 +9,7 @@ ic-track:
     room: "Auditório"
     papers:
       - title: "-Instrumentação das Técnicas Árvore de Decisão e KerasTuner para Autoajuste de Redes Neurais Recorrentes GRU na Perspectiva de Computação Sustentável"
-        pdf: "xxx"
+        pdf: "pdfs/resumos/S1R1.pdf"
         authors:
           - name: "Davi Lopes Lemos"
             institution: "UNIPAMPA"
@@ -24,14 +24,14 @@ ic-track:
           - name: "Bianca de Oliveira Durgante"
             institution: "UNIPAMPA"
       - title: "-Proposta de Comparação da Eficiência e Escalabilidade de Bibliotecas Python para Manipulação e Análise de Dados"
-        pdf: "pdfs/resumos/S1R1.pdf"
+        pdf: "pdfs/resumos/S1R2.pdf"
         authors:
           - name: "Gabriel Ranulfo Branquinho Cirillo"
             institution: "UNIOESTE"
           - name: "Guilherme Galante"
             institution: "UNIOESTE"
       - title: "-Proposal for comparison and measurement of parallel and distributed file systems for training ML models in the healthcare"
-        pdf: "xxx"
+        pdf: "pdfs/resumos/S1R3.pdf"
         authors:
           - name: "João Vitor Vargas Oliveira"
             institution: "UFRGS"
@@ -44,14 +44,14 @@ ic-track:
           - name: "Philippe Olivier Alexandre Navaux"
             institution: "UFRGS"
       - title: "-Scalability of the ARM Nvidia Grace Superchip for Deep Learning Applications"
-        pdf: "xxx"
+        pdf: "pdfs/resumos/S1R4.pdf"
         authors:
           - name: "Thiago Da Silva Araújo"
             institution: "UFRGS"
           - name: "Philippe Olivier Alexandre Navaux"
             institution: "UFRGS"
       - title: "-Análise comparativa sobre atividades de Red Team de LLMs com LLMs"
-        pdf: "xxx"
+        pdf: "pdfs/resumos/S1R5.pdf"
         authors:
           - name: "Ana C.V. Alves"
             institution: "UDESC"
@@ -60,14 +60,14 @@ ic-track:
           - name: "Milton Pedro Pagliusi Neto"
             institution: "UDESC"
       - title: "-Investigando o Uso de Modelos de Linguagem de Grande Escala para o Escalonamento de Tarefas"
-        pdf: "xxx"
+        pdf: "pdfs/resumos/S1R6.pdf"
         authors:
           - name: "Lívia Alves"
             institution: "UDESC"
           - name: "Guilherme P. Koslovski"
             institution: "UDESC"
       - title: "-Uma Comparação entre Escalonadores de Tarefas baseados em Aprendizado de Máquina"
-        pdf: "xxx"
+        pdf: "pdfs/resumos/S1R7.pdf"
         authors:
           - name: "Claudinei Cabral Junior"
             institution: "UDESC"
