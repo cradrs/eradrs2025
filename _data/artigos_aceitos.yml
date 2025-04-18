@@ -24,7 +24,7 @@ ic-track:
           - name: "Bianca de Oliveira Durgante"
             institution: "UNIPAMPA"
       - title: "-Proposta de Comparação da Eficiência e Escalabilidade de Bibliotecas Python para Manipulação e Análise de Dados"
-        pdf: "xxx"
+        pdf: "pdfs/resumos/S1R1.pdf"
         authors:
           - name: "Gabriel Ranulfo Branquinho Cirillo"
             institution: "UNIOESTE"
