@@ -29,6 +29,18 @@ title: "Minicursos"
                     </div>
                 </div>
                 {% endif %}
+                {% if tutorial.slide %}
+                <div class="row g-1 align-items-center">
+                    <div class="col-auto">
+                        <p class="lead tutorial-pdf">
+                            <b>SLIDES</b>:
+                        </p>
+                    </div>
+                    <div class="col">
+                        <a href="pdfs/minicursos/slides/{{ tutorial.slide }}" target="_blank"><img class="img-pdf" src="img/pdf-file.png"/></a>
+                    </div>
+                </div>
+                {% endif %}
                 {% if tutorial.abstract %}
                 <p class="lead">
                     <b>Resumo</b>: {{ tutorial.abstract }}

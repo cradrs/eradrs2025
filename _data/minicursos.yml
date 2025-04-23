@@ -16,6 +16,7 @@ tutorials:
     name: "Minicurso 2"
     title: "Diretivas Paralelas de Programação"
     pdf: "MC2.pdf"
+    slide: "MC2.pdf"
     abstract: "O minicurso tem como objetivo abordar a paralelização de aplicações usando diretivas das interfaces de programação paralela OpenMP e OpenACC. O uso de diretivas tem sido a forma mais fácil de acelerar uma aplicação tanto em CPU como em GPU, sem a necessidade de conhecimentos profundos a respeito de programação paralela. Através de exemplos práticos de aplicações consideradas simples, mas não as triviais vistas geralmente em cursos introdutórios, almeja-se apresentar os principais recursos para a execução concorrente de tarefas e de laços paralelos. As interfaces paralelas selecionadas também permitem o direcionamento da arquitetura alvo, o que posibilita o uso de uma mesma interface tanto para CPU como para GPU. "
     authors:
       - name: "Claudio Schepke"
