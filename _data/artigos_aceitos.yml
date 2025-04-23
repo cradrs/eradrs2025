@@ -143,7 +143,7 @@ ic-track:
     start_time: "14:00"
     end_time: "16:30"
     chair:
-      name: "Marcia Pasin"
+      name: "Claudio Schepke"
     room: "Florestan 3"
     papers:
       - title: "-Agricultura de Precisão para Pequenos e Médios Agricultores"
