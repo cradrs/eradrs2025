@@ -5,6 +5,7 @@ tutorials:
     name: "Minicurso 1"
     title: "Programação de Alto Desempenho em GPUs com C++"
     pdf: "MC1.pdf"
+    slide: "MC1.pdf"
     abstract: "A programação paralela heterogênea tem se consolidado como uma abordagem essencial na área de HPC, especialmente com o uso crescente de GPGPUs. Nesse cenário, a linguagem de programação C++ desempenha um papel central. Contudo, a diversidade e a complexidade dos modelos e ferramentas disponíveis representam uma barreira significativa para iniciantes na área. Assim, o objetivo deste minicurso é fornecer uma visão geral das principais ferramentas e modelos de programação paralela para GPUs em C++, destacando suas características, peculiaridades e aplicabilidades."
     authors:
       - name: "Pablo Hugen"
