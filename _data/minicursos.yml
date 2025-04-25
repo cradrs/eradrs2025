@@ -78,6 +78,7 @@ tutorials:
     date: "25/04 (8:30 - 11:30) — LAB2"
     name: "Minicurso 7"
     title: "Maximizando o Potencial da IA Generativa com Computação de Alto Desempenho"
+    slide: "MC7.ipynb"
     abstract: "Modelos de Inteligência Artificial Generativa, como ChatGPT da OpenAI, Llama da Meta e Stable Diffusion, estão revolucionando a forma como interagimos com a tecnologia. No entanto, essas aplicações demandam alto desempenho computacional para tarefas como inferência e fine-tuning. Este minicurso apresenta uma abordagem prática e técnica para otimizar o desempenho da IA Generativa em ambientes de computação de alto desempenho (HPC), explorando comparações diretas do desempenho entre CPUs, GPUs e TPUs. Os participantes aprenderão a configurar ambientes no Google Colab, utilizar ferramentas como PyTorch, TensorFlow e Hugging Face, e realizar benchmarks práticos para compreender as variações de desempenho entre diferentes arquiteturas de computadores. O minicurso também abordará a quantização para otimização de memória e estratégias para fine-tuning de modelos menores e acessíveis em GPUs e TPUs de baixa capacidade. Este minicurso é ideal para profissionais, acadêmicos e estudantes interessados em explorar o impacto da computação de alto desempenho na prática da IA Generativa, com foco em aplicações reais, como geradores de texto e imagens, modelos de linguagem para chatbots e integração de modelos com aplicações reais."
     authors:
       - name: "Matheus Serpa"
