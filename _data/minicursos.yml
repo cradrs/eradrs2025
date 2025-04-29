@@ -62,6 +62,7 @@ tutorials:
     name: "Minicurso 6"
     title: "Programação Avançada de Múltiplas GPUs com OpenACC"
     pdf: "MC6.pdf"
+    slide: "MC6.pdf"
     abstract: "Este minicurso tem como objetivo apresentar técnicas de programação paralela para processadores multinúcleo e aceleradores utilizando OpenACC usando cláusulas como, por exemplo, async e wait, com ênfase nos modelos de paralelismo em multi aceleradores. Serão abordadas as modificações necessárias no código-fonte para implementar esses modelos, e os resultados obtidos serão avaliados por meio de métricas de desempenho, como aceleração, eficiência e ocupação."
     authors:
       - name: "Calebe de Paula Bianchini"
